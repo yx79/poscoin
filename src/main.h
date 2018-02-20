@@ -56,7 +56,7 @@ static const int64_t COIN_YEAR_REWARD = 88 * CENT;
 
 
 static const uint256 hashGenesisBlock("0x00000777790fe85e0eb83e2e59c45410293f2ecbaa6f1d3735b5546be755ab1b");
-static const uint256 hashGenesisBlockTestNet("0x");
+static const uint256 hashGenesisBlockTestNet("0x00000777790fe85e0eb83e2e59c45410293f2ecbaa6f1d3735b5546be755ab1b");
 
 inline int64_t PastDrift(int64_t nTime)   { return nTime - 10 * 60; } // up to 10 minutes from the past
 inline int64_t FutureDrift(int64_t nTime) { return nTime + 10 * 60; } // up to 10 minutes from the future
