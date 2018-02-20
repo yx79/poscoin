@@ -1972,9 +1972,17 @@ bool CBlock::AddToBlockIndex(unsigned int nFile, unsigned int nBlockPos, const u
     // Record proof hash value
     pindexNew->hashProof = hashProof;
 
+
+
     // ppcoin: compute stake modifier
+
+    /*
     uint64_t nStakeModifier = 0;
     bool fGeneratedStakeModifier = false;
+    */
+
+
+
     if (!ComputeNextStakeModifier(pindexNew->pprev, nStakeModifier, fGeneratedStakeModifier))
         return error("AddToBlockIndex() : ComputeNextStakeModifier() failed");
     pindexNew->SetStakeModifier(nStakeModifier, fGeneratedStakeModifier);
