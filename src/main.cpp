@@ -1001,11 +1001,11 @@ uint256 WantedByOrphan(const CBlock* pblockOrphan)
 int64_t GetProofOfWorkReward(int64_t nFees)
 {
     
-            int64_t nSubsidy = 10000 * COIN;
+            int64_t nSubsidy = 8888 * COIN;
 
             if(nBestHeight == 0)
             {
-            nSubsidy = 1050000000 * COIN;
+            nSubsidy = 888888888 * COIN;
             }
 
     if (fDebug && GetBoolArg("-printcreation"))
@@ -2485,10 +2485,10 @@ bool LoadBlockIndex(bool fAllowNew)
 
     if (fTestNet)
     {
-        pchMessageStart[0] = 0x70;
-        pchMessageStart[1] = 0x6e;
-        pchMessageStart[2] = 0x7d;
-        pchMessageStart[3] = 0x0a;
+        pchMessageStart[0] = 0x11;
+        pchMessageStart[1] = 0x2e;
+        pchMessageStart[2] = 0x3d;
+        pchMessageStart[3] = 0x1a;
 
         bnTrustedModulus.SetHex("f0d14cf72623dacfe738d0892b599be0f31052239cddd95a3f25101c801dc990453b38c9434efe3f372db39a32c2bb44cbaea72d62c8931fa785b0ec44531308df3e46069be5573e49bb29f4d479bfc3d162f57a5965db03810be7636da265bfced9c01a6b0296c77910ebdc8016f70174f0f18a57b3b971ac43a934c6aedbc5c866764a3622b5b7e3f9832b8b3f133c849dbcc0396588abcd1e41048555746e4823fb8aba5b3d23692c6857fccce733d6bb6ec1d5ea0afafecea14a0f6f798b6b27f77dc989c557795cc39a0940ef6bb29a7fc84135193a55bcfc2f01dd73efad1b69f45a55198bd0e6bef4d338e452f6a420f1ae2b1167b923f76633ab6e55");
         bnProofOfWorkLimit = bnProofOfWorkLimitTestNet; // 16 bits PoW target limit for testnet
@@ -2538,9 +2538,9 @@ bool LoadBlockIndex(bool fAllowNew)
         //    CTxOut(empty)
         //  vMerkleTree: 12630d16a9
 
-        const char* pszTimestamp = "Tulip Mania all over again";
+        const char* pszTimestamp = "Eight is lucky!";
         CTransaction txNew;
-        txNew.nTime = 1515247880;
+        txNew.nTime = 1519099678;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
@@ -2550,9 +2550,9 @@ bool LoadBlockIndex(bool fAllowNew)
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1515247880;
+        block.nTime    = 1519099678;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = !fTestNet ? 125242 : 125242;
+        block.nNonce   = !fTestNet ? 0 : 0;
         
         if (true  && (block.GetHash() != hashGenesisBlock)) {
 
@@ -2578,7 +2578,7 @@ bool LoadBlockIndex(bool fAllowNew)
         printf("block.nTime = %u \n", block.nTime);
         printf("block.nNonce = %u \n", block.nNonce);
                 
-        assert(block.hashMerkleRoot == uint256("0x539743d746fcfd7a9755c32f9455bf49cfccc044e26ced1d06850712798c163d"));
+        assert(block.hashMerkleRoot == uint256("0x"));
         assert(block.GetHash() == (!fTestNet ? hashGenesisBlock : hashGenesisBlockTestNet));
         assert(block.CheckBlock());
 
