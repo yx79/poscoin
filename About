@@ -3,8 +3,8 @@ Type	PoW/PoS
 Coin name	TulipCoin
 Coin abbreviation	TLP
 Address letter	T
-RPC port	31648
-P2P port	31647
+RPC port	32049
+P2P port	32046
 Block reward	10000 coins
 Total coin supply	5250000000 coins
 
