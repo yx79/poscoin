@@ -2576,7 +2576,7 @@ block.nNonce = 90247 */
         block.nBits    = bnProofOfWorkLimit.GetCompact();
         block.nNonce   = !fTestNet ? 90247 : 90247;
         
-        if (true  && (block.GetHash() != hashGenesisBlock)) {
+        if (false  && (block.GetHash() != hashGenesisBlock)) {
 
                 // This will figure out a valid hash and Nonce if you're
                 // creating a different genesis block:
