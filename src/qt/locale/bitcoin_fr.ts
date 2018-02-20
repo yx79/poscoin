@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About TulipCoin</source>
-        <translation>Au sujet de TulipCoin</translation>
+        <source>About EightCoin</source>
+        <translation>Au sujet de EightCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;TulipCoin&lt;/b&gt; version</source>
-        <translation>Version de &lt;b&gt;TulipCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;EightCoin&lt;/b&gt; version</source>
+        <translation>Version de &lt;b&gt;EightCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TulipCoin developers</source>
+Copyright © 2014 The EightCoin developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
 Copyright © 2012-2014 Les développeurs NovaCoin
-Copyright © 2014 Les développeurs TulipCoin</translation>
+Copyright © 2014 Les développeurs EightCoin</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your TulipCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your EightCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Ce sont vos adresses pour recevoir vos paiements. Vous pouvez utiliser une adresse différente pour chaque réception afin d&apos;identifier facilement le payeur.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a TulipCoin address</source>
-        <translation>Signer un message afin de valider l&apos;identité de votre adresse TulipCoin</translation>
+        <source>Sign a message to prove you own a EightCoin address</source>
+        <translation>Signer un message afin de valider l&apos;identité de votre adresse EightCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified TulipCoin address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse TulipCoin spécifique.</translation>
+        <source>Verify a message to ensure it was signed with a specified EightCoin address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse EightCoin spécifique.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -237,7 +237,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Avertissement : Si vous chiffrez votre portefeuille et perdez votre passphrase, vous ne pourrez &lt;b&gt;plus accéder à vos TulipCoins&lt;/b&gt;!</translation>
+        <translation>Avertissement : Si vous chiffrez votre portefeuille et perdez votre passphrase, vous ne pourrez &lt;b&gt;plus accéder à vos EightCoins&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>TulipCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>L&apos;application TulipCoin va désormais se terminer afin de finaliser le processus de chiffrage. Merci de noter que le chiffrage du portefeuille ne garantit pas de se prémunir du vol via utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
+        <source>EightCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>L&apos;application EightCoin va désormais se terminer afin de finaliser le processus de chiffrage. Merci de noter que le chiffrage du portefeuille ne garantit pas de se prémunir du vol via utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about TulipCoin</source>
-        <translation>Afficher des informations au sujet de TulipCoin</translation>
+        <source>Show information about EightCoin</source>
+        <translation>Afficher des informations au sujet de EightCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a TulipCoin address</source>
-        <translation>Envoyer des monnaies vers une adresse TulipCoin</translation>
+        <source>Send coins to a EightCoin address</source>
+        <translation>Envoyer des monnaies vers une adresse EightCoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for TulipCoin</source>
-        <translation>Modification des options de configuration de TulipCoin</translation>
+        <source>Modify configuration options for EightCoin</source>
+        <translation>Modification des options de configuration de EightCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>TulipCoin</source>
-        <translation>TulipCoin</translation>
+        <source>EightCoin</source>
+        <translation>EightCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About TulipCoin</source>
-        <translation>&amp;Au sujet de TulipCoin</translation>
+        <source>&amp;About EightCoin</source>
+        <translation>&amp;Au sujet de EightCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>TulipCoin client</source>
-        <translation>Client TulipCoin</translation>
+        <source>EightCoin client</source>
+        <translation>Client EightCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to TulipCoin network</source>
-        <translation><numerusform>%n connexion active au réseau TulipCoin</numerusform><numerusform>%n connexions actives au réseau TulipCoin</numerusform></translation>
+        <source>%n active connection(s) to EightCoin network</source>
+        <translation><numerusform>%n connexion active au réseau EightCoin</numerusform><numerusform>%n connexions actives au réseau EightCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresse : %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid TulipCoin address or malformed URI parameters.</source>
-        <translation>L&apos;adresse du portefeuille TulipCoin n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid EightCoin address or malformed URI parameters.</source>
+        <translation>L&apos;adresse du portefeuille EightCoin n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. TulipCoin can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale a été rencontrée. L&apos;application TulipCoin ne peut plus être s&apos;exécuter de façon correcte et va se terminer.</translation>
+        <source>A fatal error occurred. EightCoin can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale a été rencontrée. L&apos;application EightCoin ne peut plus être s&apos;exécuter de façon correcte et va se terminer.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid TulipCoin address.</source>
-        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse TulipCoin valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid EightCoin address.</source>
+        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse EightCoin valide.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>TulipCoin-Qt</source>
-        <translation>TulipCoin-Qt</translation>
+        <source>EightCoin-Qt</source>
+        <translation>EightCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start TulipCoin after logging in to the system.</source>
-        <translation>Démarrage automatique du client TulipCoin lors de la connexion au système</translation>
+        <source>Automatically start EightCoin after logging in to the system.</source>
+        <translation>Démarrage automatique du client EightCoin lors de la connexion au système</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start TulipCoin on system login</source>
-        <translation>&amp;Démarrage du client TulipCoin à la connexion au système</translation>
+        <source>&amp;Start EightCoin on system login</source>
+        <translation>&amp;Démarrage du client EightCoin à la connexion au système</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the TulipCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir automatiquemwnr le port client de TulipCoin sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
+        <source>Automatically open the EightCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir automatiquemwnr le port client de EightCoin sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the TulipCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connexion au réseau TulipCoin à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
+        <source>Connect to the EightCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connexion au réseau EightCoin à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting TulipCoin.</source>
-        <translation>La langue d&apos;interface de l&apos;utilisateur peut être définie ici. Les modification seront prises en compte après redémarrage de l&apos;application TulipCoin</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting EightCoin.</source>
+        <translation>La langue d&apos;interface de l&apos;utilisateur peut être définie ici. Les modification seront prises en compte après redémarrage de l&apos;application EightCoin</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show TulipCoin addresses in the transaction list or not.</source>
-        <translation>Afficher les adresses TulipCoin au sein de la liste de transactions</translation>
+        <source>Whether to show EightCoin addresses in the transaction list or not.</source>
+        <translation>Afficher les adresses EightCoin au sein de la liste de transactions</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting TulipCoin.</source>
-        <translation>Les paramètres prendront effet après redémarrage du client TulipCoin</translation>
+        <source>This setting will take effect after restarting EightCoin.</source>
+        <translation>Les paramètres prendront effet après redémarrage du client EightCoin</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TulipCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau TulipCoin mais ce processus n&apos;est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the EightCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau EightCoin mais ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the TulipCoin-Qt help message to get a list with possible TulipCoin command-line options.</source>
-        <translation>Afficher le message d&apos;aide TulipCoin-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande TulipCoin</translation>
+        <source>Show the EightCoin-Qt help message to get a list with possible EightCoin command-line options.</source>
+        <translation>Afficher le message d&apos;aide EightCoin-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande EightCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-104"/>
-        <source>TulipCoin - Debug window</source>
-        <translation>TulipCoin - Fenêtre de déboggage</translation>
+        <source>EightCoin - Debug window</source>
+        <translation>EightCoin - Fenêtre de déboggage</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>TulipCoin Core</source>
-        <translation>TulipCoin Core</translation>
+        <source>EightCoin Core</source>
+        <translation>EightCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the TulipCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ouvrir le fichier journal de debug TulipCoin au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
+        <source>Open the EightCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ouvrir le fichier journal de debug EightCoin au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the TulipCoin RPC console.</source>
-        <translation>Bienvenue sur la console RPC de TulipCoin.</translation>
+        <source>Welcome to the EightCoin RPC console.</source>
+        <translation>Bienvenue sur la console RPC de EightCoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a TulipCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse TulipCoin (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse EightCoin (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid TulipCoin address</source>
-        <translation>AVERTISSEMENT: Adresse TulipCoin Invalide</translation>
+        <source>WARNING: Invalid EightCoin address</source>
+        <translation>AVERTISSEMENT: Adresse EightCoin Invalide</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1867,7 +1867,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>AVERTISSEMENT: Adresse TulipCoin Invalide</translation>
+        <translation>AVERTISSEMENT: Adresse EightCoin Invalide</translation>
     </message>
 </context>
 <context>
@@ -1930,8 +1930,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TulipCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse TulipCoin (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse EightCoin (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1955,7 +1955,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse TulipCoin (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <translation>Entrer une adresse EightCoin (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1991,8 +1991,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this TulipCoin address</source>
-        <translation>Signer le message afin de prouver l&apos;identité de votre adresse TulipCoin</translation>
+        <source>Sign the message to prove you own this EightCoin address</source>
+        <translation>Signer le message afin de prouver l&apos;identité de votre adresse EightCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified TulipCoin address</source>
-        <translation>Vérifiez le message afin de vous assurer qu&apos;il provient de l&apos;adresse TulipCoin spécifiée.</translation>
+        <source>Verify the message to ensure it was signed with the specified EightCoin address</source>
+        <translation>Vérifiez le message afin de vous assurer qu&apos;il provient de l&apos;adresse EightCoin spécifiée.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TulipCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse TulipCoin (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Entrer une adresse EightCoin (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter TulipCoin signature</source>
-        <translation>Entrer une signature TulipCoin</translation>
+        <source>Enter EightCoin signature</source>
+        <translation>Entrer une signature EightCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>TulipCoin version</source>
-        <translation>Version TulipCoin</translation>
+        <source>EightCoin version</source>
+        <translation>Version EightCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or tulipcoind</source>
-        <translation>Envoyer commande à -server ou tulipcoind</translation>
+        <source>Send command to -server or eightcoind</source>
+        <translation>Envoyer commande à -server ou eightcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: tulipcoin.conf)</source>
-        <translation>Spécifier le fichier de configuration (par défaut: tulipcoin.conf)</translation>
+        <source>Specify configuration file (default: eightcoin.conf)</source>
+        <translation>Spécifier le fichier de configuration (par défaut: eightcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: tulipcoind.pid)</source>
-        <translation>Spécifier le fichier pid (par défaut: tulipcoind.pid)</translation>
+        <source>Specify pid file (default: eightcoind.pid)</source>
+        <translation>Spécifier le fichier pid (par défaut: eightcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2800,8 +2800,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TulipCoin will not work properly.</source>
-        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. TulipCoin ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong EightCoin will not work properly.</source>
+        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. EightCoin ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2990,24 +2990,24 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=tulipcoinrpc
+rpcuser=eightcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;TulipCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, vous devez définir un mot de passe rpc &apos;rpcpassword&apos; au sein du fichier de configuration:
  %s
 Il est recommandé d&apos;utiliser le mot de passe aléatoire suivant:
-rpcuser=tulipcoinrpc
+rpcuser=eightcoinrpc
 rpcpassword=%s
 (il n&apos;est pas nécessaire de retenir ce mot de passe)
 Le nom d&apos;utilisateur et le mot de passe doivent IMPERATIVEMENT être différents.
 Si le fichier n&apos;existe pas, il est nécessaire de le créer, avec les droit de lecture au propriétaire seulement.
 Il est également recommandé d&apos;utiliser l&apos;option alertnotify afin d&apos;être notifié des problèmes;
-par exemple: alertnotify=echo %%s | mail -s &quot;Alerte TulipCoin&quot; admin@foo.com
+par exemple: alertnotify=echo %%s | mail -s &quot;Alerte EightCoin&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3132,13 +3132,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte TulipCoin&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  TulipCoin is probably already running.</source>
-        <translation>Echec lors de la tentative de verrou des données du répertoire %s. L&apos;application TulipCoin est probablement déjà en cours d&apos;exécution</translation>
+        <source>Cannot obtain a lock on data directory %s.  EightCoin is probably already running.</source>
+        <translation>Echec lors de la tentative de verrou des données du répertoire %s. L&apos;application EightCoin est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>TulipCoin</source>
-        <translation>TulipCoin</translation>
+        <source>EightCoin</source>
+        <translation>EightCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3172,13 +3172,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte TulipCoin&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of TulipCoin</source>
-        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application TulipCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of EightCoin</source>
+        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application EightCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart TulipCoin to complete</source>
-        <translation>Le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application TulipCoin</translation>
+        <source>Wallet needed to be rewritten: restart EightCoin to complete</source>
+        <translation>Le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application EightCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3247,8 +3247,8 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte TulipCoin&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. TulipCoin is probably already running.</source>
-        <translation>Connexion au port %s impossible. L&apos;application TulipCoin est probablement déjà en cours d&apos;exécution</translation>
+        <source>Unable to bind to %s on this computer. EightCoin is probably already running.</source>
+        <translation>Connexion au port %s impossible. L&apos;application EightCoin est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-97"/>

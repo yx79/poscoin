@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About TulipCoin</source>
-        <translation>Vad du behöver veta om TulipCoin</translation>
+        <source>About EightCoin</source>
+        <translation>Vad du behöver veta om EightCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;TulipCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;TulipCoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;EightCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;EightCoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TulipCoin developers</source>
+Copyright © 2014 The EightCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TulipCoin developers</translation>
+Copyright © 2014 The EightCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your TulipCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina TulipCoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your EightCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina EightCoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,8 +81,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a TulipCoin address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger TulipCoin adressen</translation>
+        <source>Sign a message to prove you own a EightCoin address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger EightCoin adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified TulipCoin address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik TulipCoin adress</translation>
+        <source>Verify a message to ensure it was signed with a specified EightCoin address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik EightCoin adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -264,8 +264,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-58"/>
-        <source>TulipCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>TulipCoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
+        <source>EightCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>EightCoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -378,8 +378,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about TulipCoin</source>
-        <translation>Visa information om TulipCoin</translation>
+        <source>Show information about EightCoin</source>
+        <translation>Visa information om EightCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,13 +428,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a TulipCoin address</source>
-        <translation>Skicka coins till en TulipCoin adress</translation>
+        <source>Send coins to a EightCoin address</source>
+        <translation>Skicka coins till en EightCoin adress</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for TulipCoin</source>
-        <translation>Modifiera konfigurations-alternativ för TulipCoin</translation>
+        <source>Modify configuration options for EightCoin</source>
+        <translation>Modifiera konfigurations-alternativ för EightCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -473,8 +473,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-200"/>
-        <source>TulipCoin</source>
-        <translation>TulipCoin</translation>
+        <source>EightCoin</source>
+        <translation>EightCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,8 +483,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About TulipCoin</source>
-        <translation>&amp;Om TulipCoin</translation>
+        <source>&amp;About EightCoin</source>
+        <translation>&amp;Om EightCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -540,13 +540,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>TulipCoin client</source>
-        <translation>TulipCoin klient</translation>
+        <source>EightCoin client</source>
+        <translation>EightCoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to TulipCoin network</source>
-        <translation><numerusform>%n aktiv anslutning till TulipCoin nätverket</numerusform><numerusform>%n aktiva anslutning till TulipCoin nätverket</numerusform></translation>
+        <source>%n active connection(s) to EightCoin network</source>
+        <translation><numerusform>%n aktiv anslutning till EightCoin nätverket</numerusform><numerusform>%n aktiva anslutning till EightCoin nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -660,8 +660,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid TulipCoin address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig TulipCoin adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid EightCoin address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig EightCoin adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,8 +720,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. TulipCoin can no longer continue safely and will quit.</source>
-        <translation>Ett fatalt fel uppstod. TulipCoin kan inte fortsätta och stänger programmet.</translation>
+        <source>A fatal error occurred. EightCoin can no longer continue safely and will quit.</source>
+        <translation>Ett fatalt fel uppstod. EightCoin kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
 <context>
@@ -1015,7 +1015,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Namnet som kopplats till denna TulipCoin-adress</translation>
+        <translation>Namnet som kopplats till denna EightCoin-adress</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1054,8 +1054,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid TulipCoin address.</source>
-        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig TulipCoin adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid EightCoin address.</source>
+        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig EightCoin adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1073,8 +1073,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>TulipCoin-Qt</source>
-        <translation>TulipCoin-Qt</translation>
+        <source>EightCoin-Qt</source>
+        <translation>EightCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1146,13 +1146,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start TulipCoin after logging in to the system.</source>
-        <translation>Starta TulipCoin automatiskt vid inloggning.</translation>
+        <source>Automatically start EightCoin after logging in to the system.</source>
+        <translation>Starta EightCoin automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start TulipCoin on system login</source>
-        <translation>&amp;Starta TulipCoin vid inloggning</translation>
+        <source>&amp;Start EightCoin on system login</source>
+        <translation>&amp;Starta EightCoin vid inloggning</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1171,8 +1171,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the TulipCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt TulipCoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the EightCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt EightCoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the TulipCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till TulipCoin nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the EightCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till EightCoin nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting TulipCoin.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av TulipCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting EightCoin.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av EightCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show TulipCoin addresses in the transaction list or not.</source>
-        <translation>Om TulipCoin adresser skall visas i transaktionslistan eller inte.</translation>
+        <source>Whether to show EightCoin addresses in the transaction list or not.</source>
+        <translation>Om EightCoin adresser skall visas i transaktionslistan eller inte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting TulipCoin.</source>
-        <translation>Inställningen börjar gälla efter omstart av TulipCoin.</translation>
+        <source>This setting will take effect after restarting EightCoin.</source>
+        <translation>Inställningen börjar gälla efter omstart av EightCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TulipCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med TulipCoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the EightCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med EightCoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the TulipCoin-Qt help message to get a list with possible TulipCoin command-line options.</source>
-        <translation>Visa TulipCoin-Qt hjälp meddelandet för att få en lista över möjliga TulipCoin kommandoradsalternativ.</translation>
+        <source>Show the EightCoin-Qt help message to get a list with possible EightCoin command-line options.</source>
+        <translation>Visa EightCoin-Qt hjälp meddelandet för att få en lista över möjliga EightCoin kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>TulipCoin - Debug window</source>
-        <translation>TulipCoin - Felsökningsfönster</translation>
+        <source>EightCoin - Debug window</source>
+        <translation>EightCoin - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>TulipCoin Core</source>
-        <translation>TulipCoin Core</translation>
+        <source>EightCoin Core</source>
+        <translation>EightCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the TulipCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna TulipCoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the EightCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna EightCoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the TulipCoin RPC console.</source>
-        <translation>Välkommen till TulipCoin RPC konsoll.</translation>
+        <source>Welcome to the EightCoin RPC console.</source>
+        <translation>Välkommen till EightCoin RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1757,8 +1757,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a TulipCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en TulipCoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en EightCoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,8 +1857,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid TulipCoin address</source>
-        <translation>VARNING: Ogiltig TulipCoin adress</translation>
+        <source>WARNING: Invalid EightCoin address</source>
+        <translation>VARNING: Ogiltig EightCoin adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1931,8 +1931,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TulipCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en TulipCoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en EightCoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1992,8 +1992,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this TulipCoin address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna TulipCoin adressen</translation>
+        <source>Sign the message to prove you own this EightCoin address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna EightCoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2024,8 +2024,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified TulipCoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna TulipCoin adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified EightCoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna EightCoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TulipCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Fyll i en TulipCoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Fyll i en EightCoin adress (t.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter TulipCoin signature</source>
-        <translation>Fyll i TulipCoin signatur</translation>
+        <source>Enter EightCoin signature</source>
+        <translation>Fyll i EightCoin signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2616,8 +2616,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>TulipCoin version</source>
-        <translation>TulipCoin version</translation>
+        <source>EightCoin version</source>
+        <translation>EightCoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2626,8 +2626,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or tulipcoind</source>
-        <translation>Skicka kommando till -server eller tulipcoind</translation>
+        <source>Send command to -server or eightcoind</source>
+        <translation>Skicka kommando till -server eller eightcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: tulipcoin.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: tulipcoin.conf)</translation>
+        <source>Specify configuration file (default: eightcoin.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: eightcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: tulipcoind.pid)</source>
-        <translation>Ange pid filen (standard tulipcoind.pid)</translation>
+        <source>Specify pid file (default: eightcoind.pid)</source>
+        <translation>Ange pid filen (standard eightcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2801,8 +2801,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TulipCoin will not work properly.</source>
-        <translation>Varning: Kolla att din dators tid och datum är rätt. TulipCoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong EightCoin will not work properly.</source>
+        <translation>Varning: Kolla att din dators tid och datum är rätt. EightCoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2991,24 +2991,24 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=tulipcoinrpc
+rpcuser=eightcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;TulipCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
  %s
 Det är rekommenderat att du använder följande slumpmässiga lösenord:
-rpcuser=tulipcoinrpc
+rpcuser=eightcoinrpc
 rpcpassword=%s
 (du behöver inte komma ihåg detta lösenord)
 Användarnamnet och lösenordet FÅR INTE vara samma.
 Om filen inte finns, skapa den med endast ägarrättigheter.
 Det är också rekommenderat att sätta alertnotify så du blir notifierad om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;TulipCoin Varning&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;EightCoin Varning&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3133,13 +3133,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;TulipCoin Varning&quot; admin
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  TulipCoin is probably already running.</source>
-        <translation>Kan inte låsa datan i mappen %s. TulipCoin är kanske redan startad.</translation>
+        <source>Cannot obtain a lock on data directory %s.  EightCoin is probably already running.</source>
+        <translation>Kan inte låsa datan i mappen %s. EightCoin är kanske redan startad.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>TulipCoin</source>
-        <translation>TulipCoin</translation>
+        <source>EightCoin</source>
+        <translation>EightCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3173,13 +3173,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;TulipCoin Varning&quot; admin
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of TulipCoin</source>
-        <translation>Kunde inte ladda wallet.dat: En nyare version av TulipCoin krävs</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of EightCoin</source>
+        <translation>Kunde inte ladda wallet.dat: En nyare version av EightCoin krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart TulipCoin to complete</source>
-        <translation>Plånboken måste skrivas om: Starta om TulipCoin för att slutföra</translation>
+        <source>Wallet needed to be rewritten: restart EightCoin to complete</source>
+        <translation>Plånboken måste skrivas om: Starta om EightCoin för att slutföra</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3248,8 +3248,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;TulipCoin Varning&quot; admin
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. TulipCoin is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. TulipCoin är sannolikt redan startad.</translation>
+        <source>Unable to bind to %s on this computer. EightCoin is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. EightCoin är sannolikt redan startad.</translation>
     </message>
     <message>
         <location line="-97"/>

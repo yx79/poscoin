@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About TulipCoin</source>
-        <translation>O TulipCoin</translation>
+        <source>About EightCoin</source>
+        <translation>O EightCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;TulipCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;TulipCoin&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;EightCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;EightCoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TulipCoin developers</source>
+Copyright © 2014 The EightCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your TulipCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši TulipCoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your EightCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši EightCoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a TulipCoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva TulipCoin naslova</translation>
+        <source>Sign a message to prove you own a EightCoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva EightCoin naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified TulipCoin address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim TulipCoin naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified EightCoin address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim EightCoin naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>TulipCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>TulipCoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>EightCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>EightCoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about TulipCoin</source>
-        <translation>Pokaži informacije o TulipCoin</translation>
+        <source>Show information about EightCoin</source>
+        <translation>Pokaži informacije o EightCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a TulipCoin address</source>
-        <translation>Pošlji kovance na TulipCoin naslov</translation>
+        <source>Send coins to a EightCoin address</source>
+        <translation>Pošlji kovance na EightCoin naslov</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for TulipCoin</source>
-        <translation>Spremeni nastavitve za TulipCoin</translation>
+        <source>Modify configuration options for EightCoin</source>
+        <translation>Spremeni nastavitve za EightCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-200"/>
-        <source>TulipCoin</source>
-        <translation>TulipCoin</translation>
+        <source>EightCoin</source>
+        <translation>EightCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About TulipCoin</source>
-        <translation>&amp;O TulipCoin</translation>
+        <source>&amp;About EightCoin</source>
+        <translation>&amp;O EightCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>TulipCoin client</source>
-        <translation>TulipCoin program</translation>
+        <source>EightCoin client</source>
+        <translation>EightCoin program</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to TulipCoin network</source>
-        <translation><numerusform>%n aktivne povezave na TulipCoin omrežje</numerusform><numerusform>%n aktivnih povezav na TulipCoin omrežje</numerusform><numerusform>%n aktivnih povezav na TulipCoin omrežje</numerusform><numerusform>%n aktivnih povezav na TulipCoin omrežje</numerusform></translation>
+        <source>%n active connection(s) to EightCoin network</source>
+        <translation><numerusform>%n aktivne povezave na EightCoin omrežje</numerusform><numerusform>%n aktivnih povezav na EightCoin omrežje</numerusform><numerusform>%n aktivnih povezav na EightCoin omrežje</numerusform><numerusform>%n aktivnih povezav na EightCoin omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid TulipCoin address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega TulipCoin naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid EightCoin address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega EightCoin naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. TulipCoin can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program TulipCoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. EightCoin can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program EightCoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1051,8 +1051,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid TulipCoin address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven TulipCoin naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid EightCoin address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven EightCoin naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>TulipCoin-Qt</source>
-        <translation>TulipCoin-Qt</translation>
+        <source>EightCoin-Qt</source>
+        <translation>EightCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1143,13 +1143,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start TulipCoin after logging in to the system.</source>
-        <translation>Avtomatično zaženi TulipCoin ob zagonu sistema.</translation>
+        <source>Automatically start EightCoin after logging in to the system.</source>
+        <translation>Avtomatično zaženi EightCoin ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start TulipCoin on system login</source>
-        <translation>&amp;Zaženi TulipCoin ob prijavi v sistem</translation>
+        <source>&amp;Start EightCoin on system login</source>
+        <translation>&amp;Zaženi EightCoin ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the TulipCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za TulipCoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the EightCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za EightCoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the TulipCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na TulipCoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the EightCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na EightCoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting TulipCoin.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu TulipCoin aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting EightCoin.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu EightCoin aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show TulipCoin addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza TulipCoin naslovov v seznamu transakcij.</translation>
+        <source>Whether to show EightCoin addresses in the transaction list or not.</source>
+        <translation>Izbira prikaza EightCoin naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting TulipCoin.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu TulipCoin aplikacije</translation>
+        <source>This setting will take effect after restarting EightCoin.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu EightCoin aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TulipCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z TulipCoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the EightCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z EightCoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the TulipCoin-Qt help message to get a list with possible TulipCoin command-line options.</source>
-        <translation>Prikaži TulipCoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice TulipCoin aplikacije</translation>
+        <source>Show the EightCoin-Qt help message to get a list with possible EightCoin command-line options.</source>
+        <translation>Prikaži EightCoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice EightCoin aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>TulipCoin - Debug window</source>
-        <translation>TulipCoin - okno za odpravljanje napak</translation>
+        <source>EightCoin - Debug window</source>
+        <translation>EightCoin - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>TulipCoin Core</source>
-        <translation>TulipCoin jedro</translation>
+        <source>EightCoin Core</source>
+        <translation>EightCoin jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the TulipCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri TulipCoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the EightCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri EightCoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the TulipCoin RPC console.</source>
-        <translation>Dobrodošli v TulipCoin RPC konzoli.</translation>
+        <source>Welcome to the EightCoin RPC console.</source>
+        <translation>Dobrodošli v EightCoin RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1754,8 +1754,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a TulipCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite TulipCoin naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite EightCoin naslov (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid TulipCoin address</source>
-        <translation>OPOZORILO: Neveljaven TulipCoin naslov</translation>
+        <source>WARNING: Invalid EightCoin address</source>
+        <translation>OPOZORILO: Neveljaven EightCoin naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1928,8 +1928,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TulipCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite TulipCoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite EightCoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1989,8 +1989,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this TulipCoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva TulipCoin naslova</translation>
+        <source>Sign the message to prove you own this EightCoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva EightCoin naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2021,8 +2021,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified TulipCoin address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim TulipCoin naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified EightCoin address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim EightCoin naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TulipCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Vnesite TulipCoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Vnesite EightCoin naslov (npr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter TulipCoin signature</source>
-        <translation>Vnesite TulipCoin podpis</translation>
+        <source>Enter EightCoin signature</source>
+        <translation>Vnesite EightCoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2613,8 +2613,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>TulipCoin version</source>
-        <translation>TulipCoin različica</translation>
+        <source>EightCoin version</source>
+        <translation>EightCoin različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2623,7 +2623,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or tulipcoind</source>
+        <source>Send command to -server or eightcoind</source>
         <translation>Pošlji ukaz na -server ali blackoind</translation>
     </message>
     <message>
@@ -2643,13 +2643,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: tulipcoin.conf)</source>
-        <translation>Določi konfiguracijsko datoteko (privzeto: tulipcoin.conf)</translation>
+        <source>Specify configuration file (default: eightcoin.conf)</source>
+        <translation>Določi konfiguracijsko datoteko (privzeto: eightcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: tulipcoind.pid)</source>
-        <translation>Določi pid datoteko (privzeto: tulipcoin.pid)</translation>
+        <source>Specify pid file (default: eightcoind.pid)</source>
+        <translation>Določi pid datoteko (privzeto: eightcoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2798,8 +2798,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TulipCoin will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno TulipCoin ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong EightCoin will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno EightCoin ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2988,24 +2988,24 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=tulipcoinrpc
+rpcuser=eightcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;TulipCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
 Priporočeno je, da uporabite naslednje naključno geslo:
-rpcuser=tulipcoinrpc
+rpcuser=eightcoinrpc
 rpcpassword=%s
 (tega gesla si vam ni potrebno zapomniti)
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;TulipCoin Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;EightCoin Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;TulipCoin Alarm&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  TulipCoin is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija TulipCoin je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  EightCoin is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija EightCoin je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>TulipCoin</source>
-        <translation>TulipCoin</translation>
+        <source>EightCoin</source>
+        <translation>EightCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;TulipCoin Alarm&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of TulipCoin</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo TulipCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of EightCoin</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo EightCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart TulipCoin to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite TulipCoin za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart EightCoin to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite EightCoin za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;TulipCoin Alarm&quot; admin@foo.
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. TulipCoin is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča TulipCoin aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. EightCoin is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča EightCoin aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

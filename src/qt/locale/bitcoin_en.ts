@@ -5,19 +5,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About TulipCoin</source>
-        <translation>About TulipCoin</translation>
+        <source>About EightCoin</source>
+        <translation>About EightCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;TulipCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;TulipCoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;EightCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;EightCoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The TulipCoin developers</source>
+Copyright © 2014 The EightCoin developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -65,8 +65,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your TulipCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your TulipCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your EightCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your EightCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a TulipCoin address</source>
-        <translation>Sign a message to prove you own a TulipCoin address</translation>
+        <source>Sign a message to prove you own a EightCoin address</source>
+        <translation>Sign a message to prove you own a EightCoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified TulipCoin address</source>
-        <translation>Verify a message to ensure it was signed with a specified TulipCoin address</translation>
+        <source>Verify a message to ensure it was signed with a specified EightCoin address</source>
+        <translation>Verify a message to ensure it was signed with a specified EightCoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>TulipCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>TulipCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
+        <source>EightCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>EightCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about TulipCoin</source>
-        <translation>Show information about TulipCoin</translation>
+        <source>Show information about EightCoin</source>
+        <translation>Show information about EightCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a TulipCoin address</source>
-        <translation>Send coins to a TulipCoin address</translation>
+        <source>Send coins to a EightCoin address</source>
+        <translation>Send coins to a EightCoin address</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for TulipCoin</source>
-        <translation>Modify configuration options for TulipCoin</translation>
+        <source>Modify configuration options for EightCoin</source>
+        <translation>Modify configuration options for EightCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>TulipCoin</source>
-        <translation>TulipCoin</translation>
+        <source>EightCoin</source>
+        <translation>EightCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About TulipCoin</source>
-        <translation>&amp;About TulipCoin</translation>
+        <source>&amp;About EightCoin</source>
+        <translation>&amp;About EightCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,15 +542,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>TulipCoin client</source>
-        <translation>TulipCoin client</translation>
+        <source>EightCoin client</source>
+        <translation>EightCoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to TulipCoin network</source>
+        <source>%n active connection(s) to EightCoin network</source>
         <translation>
-            <numerusform>%n active connection to TulipCoin network</numerusform>
-            <numerusform>%n active connections to TulipCoin network</numerusform>
+            <numerusform>%n active connection to EightCoin network</numerusform>
+            <numerusform>%n active connections to EightCoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -677,8 +677,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid TulipCoin address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid TulipCoin address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid EightCoin address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid EightCoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -749,8 +749,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. TulipCoin can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. TulipCoin can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. EightCoin can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. EightCoin can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1069,8 +1069,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid TulipCoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid TulipCoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid EightCoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid EightCoin address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1088,8 +1088,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>TulipCoin-Qt</source>
-        <translation>TulipCoin-Qt</translation>
+        <source>EightCoin-Qt</source>
+        <translation>EightCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1161,13 +1161,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start TulipCoin after logging in to the system.</source>
-        <translation>Automatically start TulipCoin after logging in to the system.</translation>
+        <source>Automatically start EightCoin after logging in to the system.</source>
+        <translation>Automatically start EightCoin after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start TulipCoin on system login</source>
-        <translation>&amp;Start TulipCoin on system login</translation>
+        <source>&amp;Start EightCoin on system login</source>
+        <translation>&amp;Start EightCoin on system login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1186,8 +1186,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the TulipCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the TulipCoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the EightCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the EightCoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1196,8 +1196,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the TulipCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the TulipCoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the EightCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the EightCoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1271,8 +1271,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting TulipCoin.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting TulipCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting EightCoin.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting EightCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1286,8 +1286,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show TulipCoin addresses in the transaction list or not.</source>
-        <translation>Whether to show TulipCoin addresses in the transaction list or not.</translation>
+        <source>Whether to show EightCoin addresses in the transaction list or not.</source>
+        <translation>Whether to show EightCoin addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1333,8 +1333,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting TulipCoin.</source>
-        <translation>This setting will take effect after restarting TulipCoin.</translation>
+        <source>This setting will take effect after restarting EightCoin.</source>
+        <translation>This setting will take effect after restarting EightCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1352,8 +1352,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TulipCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the TulipCoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the EightCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the EightCoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1568,8 +1568,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the TulipCoin-Qt help message to get a list with possible TulipCoin command-line options.</source>
-        <translation>Show the TulipCoin-Qt help message to get a list with possible TulipCoin command-line options.</translation>
+        <source>Show the EightCoin-Qt help message to get a list with possible EightCoin command-line options.</source>
+        <translation>Show the EightCoin-Qt help message to get a list with possible EightCoin command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1588,13 +1588,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>TulipCoin - Debug window</source>
-        <translation>TulipCoin - Debug window</translation>
+        <source>EightCoin - Debug window</source>
+        <translation>EightCoin - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>TulipCoin Core</source>
-        <translation>TulipCoin Core</translation>
+        <source>EightCoin Core</source>
+        <translation>EightCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1603,8 +1603,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the TulipCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the TulipCoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the EightCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the EightCoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1613,8 +1613,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the TulipCoin RPC console.</source>
-        <translation>Welcome to the TulipCoin RPC console.</translation>
+        <source>Welcome to the EightCoin RPC console.</source>
+        <translation>Welcome to the EightCoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1772,8 +1772,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a TulipCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a TulipCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1872,7 +1872,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid TulipCoin address</source>
+        <source>WARNING: Invalid EightCoin address</source>
         <translation></translation>
     </message>
     <message>
@@ -1946,8 +1946,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a TulipCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a TulipCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2007,8 +2007,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this TulipCoin address</source>
-        <translation>Sign the message to prove you own this TulipCoin address</translation>
+        <source>Sign the message to prove you own this EightCoin address</source>
+        <translation>Sign the message to prove you own this EightCoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2039,8 +2039,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified TulipCoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified TulipCoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified EightCoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified EightCoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2050,8 +2050,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a TulipCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a TulipCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2060,8 +2060,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter TulipCoin signature</source>
-        <translation>Enter TulipCoin signature</translation>
+        <source>Enter EightCoin signature</source>
+        <translation>Enter EightCoin signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2643,8 +2643,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>TulipCoin version</source>
-        <translation>TulipCoin version</translation>
+        <source>EightCoin version</source>
+        <translation>EightCoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2653,8 +2653,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or tulipcoind</source>
-        <translation>Send command to -server or tulipcoind</translation>
+        <source>Send command to -server or eightcoind</source>
+        <translation>Send command to -server or eightcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2673,13 +2673,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: tulipcoin.conf)</source>
-        <translation>Specify configuration file (default: tulipcoin.conf)</translation>
+        <source>Specify configuration file (default: eightcoin.conf)</source>
+        <translation>Specify configuration file (default: eightcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: tulipcoind.pid)</source>
-        <translation>Specify pid file (default: tulipcoind.pid)</translation>
+        <source>Specify pid file (default: eightcoind.pid)</source>
+        <translation>Specify pid file (default: eightcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2828,8 +2828,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TulipCoin will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong TulipCoin will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong EightCoin will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong EightCoin will not work properly.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3017,13 +3017,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=tulipcoinrpc
+rpcuser=eightcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;TulipCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -3149,13 +3149,13 @@ for example: alertnotify=echo %%s | mail -s &quot;TulipCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  TulipCoin is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s.  TulipCoin is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s.  EightCoin is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s.  EightCoin is probably already running.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>TulipCoin</source>
-        <translation>TulipCoin</translation>
+        <source>EightCoin</source>
+        <translation>EightCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3189,13 +3189,13 @@ for example: alertnotify=echo %%s | mail -s &quot;TulipCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of TulipCoin</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of TulipCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of EightCoin</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of EightCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart TulipCoin to complete</source>
-        <translation>Wallet needed to be rewritten: restart TulipCoin to complete</translation>
+        <source>Wallet needed to be rewritten: restart EightCoin to complete</source>
+        <translation>Wallet needed to be rewritten: restart EightCoin to complete</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3264,8 +3264,8 @@ for example: alertnotify=echo %%s | mail -s &quot;TulipCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. TulipCoin is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. TulipCoin is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. EightCoin is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. EightCoin is probably already running.</translation>
     </message>
     <message>
         <location line="-97"/>
