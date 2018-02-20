@@ -1990,7 +1990,6 @@ bool CBlock::AddToBlockIndex(unsigned int nFile, unsigned int nBlockPos, const u
 
     // ppcoin: compute stake modifier
 
-    /*
     uint64_t nStakeModifier = 0;
     bool fGeneratedStakeModifier = false;
 
@@ -2002,8 +2001,7 @@ bool CBlock::AddToBlockIndex(unsigned int nFile, unsigned int nBlockPos, const u
     if (!CheckStakeModifierCheckpoints(pindexNew->nHeight, pindexNew->nStakeModifierChecksum))
         return error("AddToBlockIndex() : Rejected by stake modifier checkpoint height=%d, modifier=0x%016"PRIx64, pindexNew->nHeight, nStakeModifier);
 
-    */
-
+    
 
 
 
