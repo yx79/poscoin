@@ -1001,12 +1001,12 @@ uint256 WantedByOrphan(const CBlock* pblockOrphan)
 int64_t GetProofOfWorkReward(int64_t nFees)
 {
     
-            int64_t nSubsidy = 88 * COIN;
+    int64_t nSubsidy = 88 * COIN;
 
-            if(nBestHeight == 0)
-            {
-            nSubsidy = 88888888 * COIN;
-            }
+    if(nBestHeight == 0)
+    {
+        nSubsidy = 88888888 * COIN;
+    }
 
     if (fDebug && GetBoolArg("-printcreation"))
         printf("GetProofOfWorkReward() : create=%s nSubsidy=%"PRId64"\n", FormatMoney(nSubsidy).c_str(), nSubsidy);
@@ -2574,7 +2574,7 @@ block.nNonce = 90247 */
 
         const char* pszTimestamp = "Eight is luckiest number!";
         CTransaction txNew;
-        txNew.nTime = 1519154476;
+        txNew.nTime = 1519160256;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
@@ -2584,9 +2584,9 @@ block.nNonce = 90247 */
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1519154476;
+        block.nTime    = 1519160256;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = !fTestNet ? 0 : 0;
+        block.nNonce   = !fTestNet ? 1519160256 : 1519160256;
         
         if (true  && (block.GetHash() != hashGenesisBlock)) {
 
@@ -2612,7 +2612,7 @@ block.nNonce = 90247 */
         printf("block.nTime = %u \n", block.nTime);
         printf("block.nNonce = %u \n", block.nNonce);
                 
-        assert(block.hashMerkleRoot == uint256("0x"));
+        assert(block.hashMerkleRoot == uint256("0xbc11c1e66459fcb34735c349be10dc871f0e3048440588448c28ad1bfd0187dc"));
         assert(block.GetHash() == (!fTestNet ? hashGenesisBlock : hashGenesisBlockTestNet));
         assert(block.CheckBlock());
 
