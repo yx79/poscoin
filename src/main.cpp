@@ -2590,7 +2590,7 @@ block.nNonce = 90247 */
         block.nVersion = 1;
         block.nTime    = 1519160256;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = !fTestNet ? 1086823 : 1086823;
+        block.nNonce   = !fTestNet ? 1745515 : 1745515;
         
         if (true  && (block.GetHash() != hashGenesisBlock)) {
 
@@ -2616,7 +2616,7 @@ block.nNonce = 90247 */
         printf("block.nTime = %u \n", block.nTime);
         printf("block.nNonce = %u \n", block.nNonce);
                 
-        assert(block.hashMerkleRoot == uint256("0xbc11c1e66459fcb34735c349be10dc871f0e3048440588448c28ad1bfd0187dc"));
+        assert(block.hashMerkleRoot == uint256("0xddd83451ab33dd4e4a3d7eff2d6e6cb1c0e31a4cb73622d96872a680ad9066fa"));
         assert(block.GetHash() == (!fTestNet ? hashGenesisBlock : hashGenesisBlockTestNet));
         assert(block.CheckBlock());
 
