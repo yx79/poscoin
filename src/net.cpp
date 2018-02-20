@@ -1230,12 +1230,14 @@ void MapPort()
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
     {"35.229.36.183", "35.229.36.183"},
+    {"35.229.162.85", "35.229.162.85"}, 
+    {"35.230.97.129", "35.230.97.129"},
 };
 
 void ThreadDNSAddressSeed(void* parg)
 {
     // Make this thread recognisable as the DNS seeding thread
-    RenameThread("tulipcoin-dnsseed");
+    RenameThread("eightcoin-dnsseed");
 
     try
     {

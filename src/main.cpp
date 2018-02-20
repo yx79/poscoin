@@ -1001,11 +1001,11 @@ uint256 WantedByOrphan(const CBlock* pblockOrphan)
 int64_t GetProofOfWorkReward(int64_t nFees)
 {
     
-            int64_t nSubsidy = 8888 * COIN;
+            int64_t nSubsidy = 88 * COIN;
 
             if(nBestHeight == 0)
             {
-            nSubsidy = 888888888 * COIN;
+            nSubsidy = 88888888 * COIN;
             }
 
     if (fDebug && GetBoolArg("-printcreation"))
@@ -1018,6 +1018,20 @@ int64_t GetProofOfWorkReward(int64_t nFees)
 int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
 {
     int64_t nSubsidy = nCoinAge * COIN_YEAR_REWARD * 33 / (365 * 33 + 8);
+
+    if (nBestHeight % 888888 == 0) {
+        nSubsidy *= 111111; // 888888%
+    } else if (nBestHeight % 88888 == 0) {
+        nSubsidy *= 11111; //   88888%
+    } else if (nBestHeight % 8888 == 0) {
+        nSubsidy *= 1111; //     8888%
+    } else if (nBestHeight % 888 == 0) {
+        nSubsidy *= 111; //       888%
+    } else if (nBestHeight % 88 == 0) {
+        nSubsidy *= 11; //         88%
+    } else {
+        // default nSubsidy is 8%
+    }
 
     if (fDebug && GetBoolArg("-printcreation"))
         printf("GetProofOfStakeReward(): create=%s nCoinAge=%"PRId64"\n", FormatMoney(nSubsidy).c_str(), nCoinAge);
@@ -2496,10 +2510,10 @@ bool LoadBlockIndex(bool fAllowNew)
 
     if (fTestNet)
     {
-        pchMessageStart[0] = 0x11;
-        pchMessageStart[1] = 0x2e;
-        pchMessageStart[2] = 0x3d;
-        pchMessageStart[3] = 0x1a;
+        pchMessageStart[0] = 0x31;
+        pchMessageStart[1] = 0x1e;
+        pchMessageStart[2] = 0x7d;
+        pchMessageStart[3] = 0x2a;
 
         bnTrustedModulus.SetHex("f0d14cf72623dacfe738d0892b599be0f31052239cddd95a3f25101c801dc990453b38c9434efe3f372db39a32c2bb44cbaea72d62c8931fa785b0ec44531308df3e46069be5573e49bb29f4d479bfc3d162f57a5965db03810be7636da265bfced9c01a6b0296c77910ebdc8016f70174f0f18a57b3b971ac43a934c6aedbc5c866764a3622b5b7e3f9832b8b3f133c849dbcc0396588abcd1e41048555746e4823fb8aba5b3d23692c6857fccce733d6bb6ec1d5ea0afafecea14a0f6f798b6b27f77dc989c557795cc39a0940ef6bb29a7fc84135193a55bcfc2f01dd73efad1b69f45a55198bd0e6bef4d338e452f6a420f1ae2b1167b923f76633ab6e55");
         bnProofOfWorkLimit = bnProofOfWorkLimitTestNet; // 16 bits PoW target limit for testnet
@@ -2560,9 +2574,9 @@ block.hashMerkleRoot == 7f8914e8258ff226fb6bf8716ca82dfdb47ef6427e93b96efad2c2a5
 block.nTime = 1519099678 
 block.nNonce = 90247 */
 
-        const char* pszTimestamp = "Eight is lucky!";
+        const char* pszTimestamp = "Eight is luckiest number!";
         CTransaction txNew;
-        txNew.nTime = 1519099678;
+        txNew.nTime = 1519154476;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
@@ -2572,11 +2586,11 @@ block.nNonce = 90247 */
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1519099678;
+        block.nTime    = 1519154476;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = !fTestNet ? 90247 : 90247;
+        block.nNonce   = !fTestNet ? 0 : 0;
         
-        if (false  && (block.GetHash() != hashGenesisBlock)) {
+        if (true  && (block.GetHash() != hashGenesisBlock)) {
 
                 // This will figure out a valid hash and Nonce if you're
                 // creating a different genesis block:
@@ -2600,7 +2614,7 @@ block.nNonce = 90247 */
         printf("block.nTime = %u \n", block.nTime);
         printf("block.nNonce = %u \n", block.nNonce);
                 
-        assert(block.hashMerkleRoot == uint256("0x7f8914e8258ff226fb6bf8716ca82dfdb47ef6427e93b96efad2c2a5b0755f47"));
+        assert(block.hashMerkleRoot == uint256("0x"));
         assert(block.GetHash() == (!fTestNet ? hashGenesisBlock : hashGenesisBlockTestNet));
         assert(block.CheckBlock());
 
@@ -2867,7 +2881,7 @@ bool static AlreadyHave(CTxDB& txdb, const CInv& inv)
 // The message start string is designed to be unlikely to occur in normal data.
 // The characters are rarely used upper ASCII, not valid as UTF-8, and produce
 // a large 4-byte int at any alignment.
-unsigned char pchMessageStart[4] = { 0xa1, 0xe9, 0x1c, 0x1b };
+unsigned char pchMessageStart[4] = { 0xe1, 0xa9, 0x4c, 0x2b };
 
 bool static ProcessMessage(CNode* pfrom, string strCommand, CDataStream& vRecv)
 {
