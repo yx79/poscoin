@@ -2590,7 +2590,7 @@ block.nNonce = 90247 */
         block.nVersion = 1;
         block.nTime    = 1519160256;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = !fTestNet ? 1519160256 : 1519160256;
+        block.nNonce   = !fTestNet ? 1086823 : 1086823;
         
         if (true  && (block.GetHash() != hashGenesisBlock)) {
 
