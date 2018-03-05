@@ -118,3 +118,15 @@ Ubuntu 11.10 has a package called 'qt-at-spi' installed by default. At the time 
 Until the bug is fixed, you can remove the qt-at-spi package to work around the problem, though this will presumably disable screen reader functionality for Qt apps:
 
 sudo apt-get remove qt-at-spi
+
+
+
+rpcuser=eightcoinrpc
+rpcpassword=266UEon46enH4mKFNnGEhvQmdmPh6hrFL2w74YKD1C6v
+rpcallowip=127.0.0.1
+rpcport=32049
+listen=1
+server=1
+addnode=35.231.57.253
+addnode=35.185.107.113 
+
