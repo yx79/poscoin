@@ -18,6 +18,7 @@
 extern bool fTestNet;
 static inline unsigned short GetDefaultPort(const bool testnet = fTestNet)
 {
+    // EDITING: P2P PORT
     return testnet ? 42046 : 32046;
 }
 

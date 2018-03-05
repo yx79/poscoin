@@ -45,7 +45,7 @@ unsigned int nStakeMinAge = 8 * 60 * 60;
 unsigned int nStakeMaxAge = -1; // unlimited
 unsigned int nModifierInterval = 10 * 60; // time to elapse before new modifier is computed
 
-int nCoinbaseMaturity = 20;
+int nCoinbaseMaturity = 20; // EDITING: block maturity
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
 
@@ -1003,7 +1003,7 @@ int64_t GetProofOfWorkReward(int64_t nFees)
     
     int64_t nSubsidy = 88 * COIN;
 
-    if(nBestHeight == 0)
+    if(nBestHeight == 8)
     {
         nSubsidy = 88888888 * COIN;
     }
@@ -1039,7 +1039,7 @@ int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
     return nSubsidy + nFees;
 }
 
-static const int64_t nTargetTimespan = 16 * 60;  // 16 mins
+static const int64_t nTargetTimespan = 8 * 60;  // 8 mins
 
 //
 // maximum nBits value could possible be required nTime after
