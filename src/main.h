@@ -54,7 +54,7 @@ static const unsigned int LOCKTIME_THRESHOLD = 500000000; // Tue Nov  5 00:53:20
 
 static const int64_t COIN_YEAR_REWARD = 8 * CENT;
 
-
+// EDITING: GENESIS
 static const uint256 hashGenesisBlock("0x00000e80818377172e1b560900044dd708bd1e563dc1a9106673f5c3b3ddb51b");
 static const uint256 hashGenesisBlockTestNet("0x00000e80818377172e1b560900044dd708bd1e563dc1a9106673f5c3b3ddb51b");
 

@@ -275,8 +275,9 @@ class CBitcoinAddress : public CBase58Data
 {
 public:
     enum
-    {
-        PUBKEY_ADDRESS = 65,
+    {PUBKEY_ADDRESS
+        // EDITING: Address Prefixes
+        PUBKEY_ADDRESS = 18, // 8
         SCRIPT_ADDRESS = 85,
         PUBKEY_ADDRESS_TEST = 111,
         SCRIPT_ADDRESS_TEST = 196,
