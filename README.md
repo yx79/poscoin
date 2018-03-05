@@ -39,10 +39,16 @@ Debian
 
 First, make sure that the required packages for Qt5 development of your distribution are installed, for Debian and Ubuntu these are:
 
-sudo apt-get install qt5-default qt5-qmake qtbase5-dev-tools qttools5-dev-tools build-essential libboost-dev libboost-system-dev libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev libssl-dev libdb++-dev
+sudo apt-get install qt5-default qt5-qmake qtbase5-dev-tools qttools5-dev-tools build-essential 
+
+sudo apt-get install libboost-dev libboost-system-dev libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev libssl-dev 
+
+sudo apt-get install  libdb-dev libdb++-dev
 
  This Step is needed as well
+ 
  sudo apt-get install libqt4-dev libminiupnpc-dev
+ 
 then execute the following:
 
 qmake
@@ -112,3 +118,15 @@ Ubuntu 11.10 has a package called 'qt-at-spi' installed by default. At the time 
 Until the bug is fixed, you can remove the qt-at-spi package to work around the problem, though this will presumably disable screen reader functionality for Qt apps:
 
 sudo apt-get remove qt-at-spi
+
+
+
+rpcuser=eightcoinrpc
+rpcpassword=266UEon46enH4mKFNnGEhvQmdmPh6hrFL2w74YKD1C6v
+rpcallowip=127.0.0.1
+rpcport=32049
+listen=1
+server=1
+addnode=35.231.57.253
+addnode=35.185.107.113 
+
