@@ -3,8 +3,10 @@ Type	PoW/PoS
 Coin name	EightCoin
 Coin abbreviation	TLP
 Address letter	T
-RPC port	32049
-P2P port	32046
+
+P2P port	32046 (Testnet: 42046)
+RPC port	32049 (Testnet: 42049)
+
 Block reward	10000 coins
 Total coin supply	5250000000 coins
 
