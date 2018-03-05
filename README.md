@@ -39,17 +39,16 @@ Debian
 
 First, make sure that the required packages for Qt5 development of your distribution are installed, for Debian and Ubuntu these are:
 
-apt-get install qt5-default qt5-qmake qtbase5-dev-tools qttools5-dev-tools \
-    build-essential libboost-dev libboost-system-dev \
-    libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev \
-    libssl-dev libdb++-dev
+sudo apt-get install qt5-default qt5-qmake qtbase5-dev-tools qttools5-dev-tools build-essential libboost-dev libboost-system-dev libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev libssl-dev libdb++-dev
 
  This Step is needed as well
  sudo apt-get install libqt4-dev libminiupnpc-dev
 then execute the following:
 
 qmake
+
 make
+
 Alternatively, install Qt Creator and open the eightcoin-qt.pro file.
 
 An executable named eightcoin-qt will be built.
