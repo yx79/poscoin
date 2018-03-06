@@ -14,7 +14,9 @@ To Build
 --------
 
 cd src/
+mkdir obj
 make -f makefile.unix            # Headless eightcoin
+
 
 See readme-qt.rst for instructions on building EightCoin QT,
 the graphical eightcoin.
