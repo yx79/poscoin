@@ -18,6 +18,8 @@ Target timespan	1 block
 Transaction confirmations	6 blocks
 
 
+"C:\crypto\cpuminer\minerd.exe" -a scrypt -o http://127.0.0.1:<rpcport> -O <rpcuser>:<rpcpassword>
+https://github.com/pooler/cpuminer/releases/download/v2.5.0/pooler-cpuminer-2.5.0-linux-x86_64.tar.gz
 
 
 
