@@ -1019,15 +1019,15 @@ int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
 {
     int64_t nSubsidy = nCoinAge * COIN_YEAR_REWARD * 33 / (365 * 33 + 8);
 
-    if (nBestHeight % 888888 == 0) {
+    if (nBestHeight % 88888 == 0) {
         nSubsidy *= 111111; // 888888%
-    } else if (nBestHeight % 88888 == 0) {
-        nSubsidy *= 11111; //   88888%
     } else if (nBestHeight % 8888 == 0) {
-        nSubsidy *= 1111; //     8888%
+        nSubsidy *= 11111; //   88888%
     } else if (nBestHeight % 888 == 0) {
-        nSubsidy *= 111; //       888%
+        nSubsidy *= 1111; //     8888%
     } else if (nBestHeight % 88 == 0) {
+        nSubsidy *= 111; //       888%
+    } else if (nBestHeight % 8 == 0) {
         nSubsidy *= 11; //         88%
     } else {
         // default nSubsidy is 8%
