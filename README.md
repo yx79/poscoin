@@ -1,7 +1,7 @@
 
-EightCoin development tree
+EighthCoin development tree
 
-EightCoin is a PoS-based cryptocurrency.
+EighthCoin is a PoS-based cryptocurrency.
 
 Development process
 ===========================
@@ -16,7 +16,7 @@ or are controversial.
 
 The master branch is regularly built and tested, but is not guaranteed
 to be completely stable. Tags are regularly created to indicate new
-stable release versions of EightCoin.
+stable release versions of EighthCoin.
 
 Feature branches are created when there are major new features being
 worked on by several people.
@@ -31,7 +31,7 @@ Issues with no commits will be given a similar warning, and closed after
 15 days from their last activity. Issues closed in this manner will be 
 labeled 'stale'.
 
-EightCoin-qt: Qt5 GUI for EightCoin
+EighthCoin-qt: Qt5 GUI for EighthCoin
 
 Build instructions
 
@@ -103,9 +103,9 @@ USE_QRCODE=0	(the default) No QRCode support - libarcode not required
 USE_QRCODE=1	QRCode support enabled
 Berkely DB version warning
 
-A warning for people using the static binary version of EightCoin on a Linux/UNIX-ish system (tl;dr: Berkely DB databases are not forward compatible).
+A warning for people using the static binary version of EighthCoin on a Linux/UNIX-ish system (tl;dr: Berkely DB databases are not forward compatible).
 
-The static binary version of EightCoin is linked against libdb 5.0 (see also this Debian issue).
+The static binary version of EighthCoin is linked against libdb 5.0 (see also this Debian issue).
 
 Now the nasty thing is that databases from 5.X are not compatible with 4.X.
 

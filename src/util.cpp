@@ -985,13 +985,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\EightCoin
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\EightCoin
-    // Mac: ~/Library/Application Support/EightCoin
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\EighthCoin
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\EighthCoin
+    // Mac: ~/Library/Application Support/EighthCoin
     // Unix: ~/.eighthcoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "EightCoin";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "EighthCoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -1003,7 +1003,7 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "EightCoin";
+    return pathRet / "EighthCoin";
 #else
     // Unix
     return pathRet / ".eighthcoin";
@@ -1209,10 +1209,10 @@ void AddTimeData(const CNetAddr& ip, int64_t nTime)
                 if (!fMatch)
                 {
                     fDone = true;
-                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong EightCoin will not work properly.");
+                    string strMessage = _("Warning: Please check that your computer's date and time are correct! If your clock is wrong EighthCoin will not work properly.");
                     strMiscWarning = strMessage;
                     printf("*** %s\n", strMessage.c_str());
-                    uiInterface.ThreadSafeMessageBox(strMessage+" ", string("EightCoin"), CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION);
+                    uiInterface.ThreadSafeMessageBox(strMessage+" ", string("EighthCoin"), CClientUIInterface::OK | CClientUIInterface::ICON_EXCLAMATION);
                 }
             }
         }

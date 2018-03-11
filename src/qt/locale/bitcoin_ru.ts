@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About EightCoin</source>
-        <translation>О EightCoin</translation>
+        <source>About EighthCoin</source>
+        <translation>О EighthCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;EightCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;EightCoin&lt;/b&gt; версия</translation>
+        <source>&lt;b&gt;EighthCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;EighthCoin&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The EightCoin developers</source>
+Copyright © 2014 The EighthCoin developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики NovaCoin
-Все права защищены © 2014 Разработчики EightCoin</translation>
+Все права защищены © 2014 Разработчики EighthCoin</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your EightCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your EighthCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Это Ваши адреса для получения платежей. Вы можете дать разные адреса отправителям, чтобы отслеживать, кто именно вам платит.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a EightCoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом EightCoin</translation>
+        <source>Sign a message to prove you own a EighthCoin address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом EighthCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified EightCoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом EightCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified EighthCoin address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом EighthCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,7 +263,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>EightCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>EighthCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>Сейчас программа закроется для завершения процесса шифрования. Помните, что шифрование вашего бумажника не может полностью защитить ваши монеты от кражи с помощью инфицирования вашего компьютера вредоносным ПО.</translation>
     </message>
     <message>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about EightCoin</source>
-        <translation>Показать информацию о EightCoin&apos;е</translation>
+        <source>Show information about EighthCoin</source>
+        <translation>Показать информацию о EighthCoin&apos;е</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a EightCoin address</source>
-        <translation>Отправить монеты на указанный адрес EightCoin</translation>
+        <source>Send coins to a EighthCoin address</source>
+        <translation>Отправить монеты на указанный адрес EighthCoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for EightCoin</source>
-        <translation>Изменить параметры конфигурации EightCoin</translation>
+        <source>Modify configuration options for EighthCoin</source>
+        <translation>Изменить параметры конфигурации EighthCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>EightCoin</source>
-        <translation>EightCoin</translation>
+        <source>EighthCoin</source>
+        <translation>EighthCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About EightCoin</source>
-        <translation>&amp;О EightCoin</translation>
+        <source>&amp;About EighthCoin</source>
+        <translation>&amp;О EighthCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,12 +539,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>EightCoin client</source>
-        <translation>EightCoin клиент</translation>
+        <source>EighthCoin client</source>
+        <translation>EighthCoin клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to EightCoin network</source>
+        <source>%n active connection(s) to EighthCoin network</source>
         <translation><numerusform>%n активное соединение с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform><numerusform>%n активных соединений с сетью</numerusform></translation>
     </message>
     <message>
@@ -659,8 +659,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid EightCoin address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом EightCoin или неправильными параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid EighthCoin address or malformed URI parameters.</source>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом EighthCoin или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. EightCoin can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. EightCoin не может безопасно продолжать работу и будет закрыт.</translation>
+        <source>A fatal error occurred. EighthCoin can no longer continue safely and will quit.</source>
+        <translation>Произошла неисправимая ошибка. EighthCoin не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1039,8 +1039,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid EightCoin address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным EightCoin-адресом.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid EighthCoin address.</source>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным EighthCoin-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1058,8 +1058,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>EightCoin-Qt</source>
-        <translation>EightCoin-Qt</translation>
+        <source>EighthCoin-Qt</source>
+        <translation>EighthCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1131,13 +1131,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start EightCoin after logging in to the system.</source>
-        <translation>Автоматически запускать EightCoin после входа в систему</translation>
+        <source>Automatically start EighthCoin after logging in to the system.</source>
+        <translation>Автоматически запускать EighthCoin после входа в систему</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start EightCoin on system login</source>
-        <translation>&amp;Запускать EightCoin при входе в систему</translation>
+        <source>&amp;Start EighthCoin on system login</source>
+        <translation>&amp;Запускать EighthCoin при входе в систему</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1156,8 +1156,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the EightCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для EightCoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the EighthCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для EighthCoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1166,8 +1166,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the EightCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети EightCoin через прокси SOCKS (например, при подключении через Tor).</translation>
+        <source>Connect to the EighthCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Подключаться к сети EighthCoin через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1241,8 +1241,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting EightCoin.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска EightCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting EighthCoin.</source>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска EighthCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1256,8 +1256,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show EightCoin addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса EightCoin в списке транзакций.</translation>
+        <source>Whether to show EighthCoin addresses in the transaction list or not.</source>
+        <translation>Показывать ли адреса EighthCoin в списке транзакций.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1303,8 +1303,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting EightCoin.</source>
-        <translation>Эта настройка вступит в силу после перезапуска EightCoin</translation>
+        <source>This setting will take effect after restarting EighthCoin.</source>
+        <translation>Эта настройка вступит в силу после перезапуска EighthCoin</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1322,8 +1322,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the EightCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью EightCoin после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the EighthCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью EighthCoin после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1538,8 +1538,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the EightCoin-Qt help message to get a list with possible EightCoin command-line options.</source>
-        <translation>Показать помощь по EightCoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
+        <source>Show the EighthCoin-Qt help message to get a list with possible EighthCoin command-line options.</source>
+        <translation>Показать помощь по EighthCoin-Qt, чтобы получить список доступных параметров командной строки.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1558,13 +1558,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>EightCoin - Debug window</source>
-        <translation>EightCoin - Окно отладки</translation>
+        <source>EighthCoin - Debug window</source>
+        <translation>EighthCoin - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>EightCoin Core</source>
-        <translation>Ядро EightCoin</translation>
+        <source>EighthCoin Core</source>
+        <translation>Ядро EighthCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1573,8 +1573,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the EightCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл EightCoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <source>Open the EighthCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть отладочный лог-файл EighthCoin из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1583,8 +1583,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the EightCoin RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль EightCoin.</translation>
+        <source>Welcome to the EighthCoin RPC console.</source>
+        <translation>Добро пожаловать в RPC-консоль EighthCoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1742,8 +1742,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите EightCoin-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EighthCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите EighthCoin-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1842,7 +1842,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid EightCoin address</source>
+        <source>WARNING: Invalid EighthCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1916,8 +1916,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите EightCoin-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EighthCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите EighthCoin-адрес (например B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1977,8 +1977,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this EightCoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом EightCoin</translation>
+        <source>Sign the message to prove you own this EighthCoin address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом EighthCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2009,8 +2009,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified EightCoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом EightCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified EighthCoin address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом EighthCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2020,8 +2020,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Введите адрес EightCoin (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EighthCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Введите адрес EighthCoin (напр. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2030,8 +2030,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter EightCoin signature</source>
-        <translation>Введите подпись EightCoin</translation>
+        <source>Enter EighthCoin signature</source>
+        <translation>Введите подпись EighthCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2601,7 +2601,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>EightCoin version</source>
+        <source>EighthCoin version</source>
         <translation>Версия</translation>
     </message>
     <message>
@@ -2787,8 +2787,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong EightCoin will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, EightCoin будет работать некорректно.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong EighthCoin will not work properly.</source>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, EighthCoin будет работать некорректно.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2983,7 +2983,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;EighthCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3109,13 +3109,13 @@ for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  EightCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  EighthCoin is probably already running.</source>
         <translation>Невозможно установить блокировку на рабочую директорию %s.  Возможно, бумажник уже запущен.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>EightCoin</source>
-        <translation>EightCoin</translation>
+        <source>EighthCoin</source>
+        <translation>EighthCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3149,13 +3149,13 @@ for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of EightCoin</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию EightCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of EighthCoin</source>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию EighthCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart EightCoin to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите EightCoin для завершения операции</translation>
+        <source>Wallet needed to be rewritten: restart EighthCoin to complete</source>
+        <translation>Необходимо перезаписать бумажник, перезапустите EighthCoin для завершения операции</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3224,8 +3224,8 @@ for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. EightCoin is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, EightCoin уже работает.</translation>
+        <source>Unable to bind to %s on this computer. EighthCoin is probably already running.</source>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, EighthCoin уже работает.</translation>
     </message>
     <message>
         <location line="-97"/>

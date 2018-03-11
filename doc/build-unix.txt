@@ -18,7 +18,7 @@ mkdir obj
 make -f makefile.unix            # Headless eighthcoin
 
 
-See readme-qt.rst for instructions on building EightCoin QT,
+See readme-qt.rst for instructions on building EighthCoin QT,
 the graphical eighthcoin.
 
 Dependencies

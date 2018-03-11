@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About EightCoin</source>
-        <translation>Despre EightCoin</translation>
+        <source>About EighthCoin</source>
+        <translation>Despre EighthCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;EightCoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;EightCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;EighthCoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;EighthCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The EightCoin developers</source>
+Copyright © 2014 The EighthCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The EightCoin developers</translation>
+Copyright © 2014 The EighthCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your EightCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele EightCoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your EighthCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele EighthCoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a EightCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă EightCoin</translation>
+        <source>Sign a message to prove you own a EighthCoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă EighthCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified EightCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă EightCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified EighthCoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă EighthCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>EightCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>EightCoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>EighthCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>EighthCoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about EightCoin</source>
-        <translation>Arată informații despre EightCoin</translation>
+        <source>Show information about EighthCoin</source>
+        <translation>Arată informații despre EighthCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a EightCoin address</source>
-        <translation>Trimite monede către o adresă EightCoin</translation>
+        <source>Send coins to a EighthCoin address</source>
+        <translation>Trimite monede către o adresă EighthCoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for EightCoin</source>
-        <translation>Modifică opțiuni de configurare pentru EightCoin</translation>
+        <source>Modify configuration options for EighthCoin</source>
+        <translation>Modifică opțiuni de configurare pentru EighthCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-200"/>
-        <source>EightCoin</source>
-        <translation>EightCoin</translation>
+        <source>EighthCoin</source>
+        <translation>EighthCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About EightCoin</source>
-        <translation>Despre EightCoin</translation>
+        <source>&amp;About EighthCoin</source>
+        <translation>Despre EighthCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>EightCoin client</source>
-        <translation>Clientul EightCoin</translation>
+        <source>EighthCoin client</source>
+        <translation>Clientul EighthCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to EightCoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua EightCoin</numerusform><numerusform>%n conexiuni active la reteaua EightCoin</numerusform><numerusform>%n conexiuni active la reteaua EightCoin</numerusform></translation>
+        <source>%n active connection(s) to EighthCoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua EighthCoin</numerusform><numerusform>%n conexiuni active la reteaua EighthCoin</numerusform><numerusform>%n conexiuni active la reteaua EighthCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid EightCoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa EightCoin invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid EighthCoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa EighthCoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. EightCoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. EightCoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. EighthCoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. EighthCoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid EightCoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă EightCoin validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid EighthCoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă EighthCoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>EightCoin-Qt</source>
-        <translation>EightCoin-Qt</translation>
+        <source>EighthCoin-Qt</source>
+        <translation>EighthCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start EightCoin after logging in to the system.</source>
-        <translation>Pornește EightCoin imdiat după logarea în sistem</translation>
+        <source>Automatically start EighthCoin after logging in to the system.</source>
+        <translation>Pornește EighthCoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start EightCoin on system login</source>
-        <translation>$Pornește EightCoin la logarea în sistem</translation>
+        <source>&amp;Start EighthCoin on system login</source>
+        <translation>$Pornește EighthCoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the EightCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul EightCoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the EighthCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul EighthCoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the EightCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua EightCoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the EighthCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua EighthCoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting EightCoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea EightCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting EighthCoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea EighthCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show EightCoin addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese EightCoin din lista de tranzacție sau nu.</translation>
+        <source>Whether to show EighthCoin addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese EighthCoin din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting EightCoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea EightCoin.</translation>
+        <source>This setting will take effect after restarting EighthCoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea EighthCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the EightCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua EightCoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the EighthCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua EighthCoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the EightCoin-Qt help message to get a list with possible EightCoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor EightCoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă EightCoin.</translation>
+        <source>Show the EighthCoin-Qt help message to get a list with possible EighthCoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor EighthCoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă EighthCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>EightCoin - Debug window</source>
-        <translation>EightCoin - fereastră depanare</translation>
+        <source>EighthCoin - Debug window</source>
+        <translation>EighthCoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>EightCoin Core</source>
-        <translation>EightCoin Core</translation>
+        <source>EighthCoin Core</source>
+        <translation>EighthCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the EightCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare EightCoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the EighthCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare EighthCoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the EightCoin RPC console.</source>
-        <translation>Bine ati venit la consola EightCoin RPC.</translation>
+        <source>Welcome to the EighthCoin RPC console.</source>
+        <translation>Bine ati venit la consola EighthCoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă EightCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EighthCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă EighthCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid EightCoin address</source>
-        <translation>Atenție: Adresă EightCoin invalidă</translation>
+        <source>WARNING: Invalid EighthCoin address</source>
+        <translation>Atenție: Adresă EighthCoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,8 +1930,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă EightCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EighthCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă EighthCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this EightCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă EightCoin</translation>
+        <source>Sign the message to prove you own this EighthCoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă EighthCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified EightCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă EightCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified EighthCoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă EighthCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduceți o adresă EightCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EighthCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduceți o adresă EighthCoin(ex:B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter EightCoin signature</source>
-        <translation>Introduceti semnatura EightCoin</translation>
+        <source>Enter EighthCoin signature</source>
+        <translation>Introduceti semnatura EighthCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>EightCoin version</source>
-        <translation>Versiune EightCoin</translation>
+        <source>EighthCoin version</source>
+        <translation>Versiune EighthCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2800,8 +2800,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong EightCoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit EightCoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong EighthCoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit EighthCoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2996,7 +2996,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;EighthCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
 Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=eighthcoinrpc
@@ -3005,7 +3005,7 @@ rpcpassword=%s
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;EighthCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,13 +3130,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  EightCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  EighthCoin is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Blackoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>EightCoin</source>
-        <translation>EightCoin</translation>
+        <source>EighthCoin</source>
+        <translation>EighthCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of EightCoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de EightCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of EighthCoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de EighthCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart EightCoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați EightCoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart EighthCoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați EighthCoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. EightCoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil EightCoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. EighthCoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil EighthCoin ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -1,8 +1,8 @@
 #ifndef QTIPCSERVER_H
 #define QTIPCSERVER_H
 
-// Define EightCoin-Qt message queue name
-#define BITCOINURI_QUEUE_NAME "EightCoinURI"
+// Define EighthCoin-Qt message queue name
+#define BITCOINURI_QUEUE_NAME "EighthCoinURI"
 
 void ipcScanRelay(int argc, char *argv[]);
 void ipcInit(int argc, char *argv[]);

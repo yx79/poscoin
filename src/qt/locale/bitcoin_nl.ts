@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About EightCoin</source>
-        <translation>Over EightCoin</translation>
+        <source>About EighthCoin</source>
+        <translation>Over EighthCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;EightCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;EightCoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;EighthCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;EighthCoin&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The EightCoin developers</source>
+Copyright © 2014 The EighthCoin developers</source>
         <translation>Copyright © 2009-2014 De Bitcoin ontwikkelaars
 Copyright © 2012-2014 De NovaCoin ontwikkelaars
-Copyright © 2014 De EightCoin ontwikkelaars</translation>
+Copyright © 2014 De EighthCoin ontwikkelaars</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your EightCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn al jou EightCoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
+        <source>These are your EighthCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn al jou EighthCoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a EightCoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een EightCoin adres bezit.</translation>
+        <source>Sign a message to prove you own a EighthCoin address</source>
+        <translation>Teken een bericht om te bewijzen dat je een EighthCoin adres bezit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified EightCoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek EightCoin adres</translation>
+        <source>Verify a message to ensure it was signed with a specified EighthCoin address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek EighthCoin adres</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-58"/>
-        <source>EightCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>EightCoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
+        <source>EighthCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>EighthCoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about EightCoin</source>
-        <translation>Toon informatie over EightCoin</translation>
+        <source>Show information about EighthCoin</source>
+        <translation>Toon informatie over EighthCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a EightCoin address</source>
-        <translation>Verstuur munten naar een EightCoin adres</translation>
+        <source>Send coins to a EighthCoin address</source>
+        <translation>Verstuur munten naar een EighthCoin adres</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for EightCoin</source>
-        <translation>Verander configuratie opties voor EightCoin</translation>
+        <source>Modify configuration options for EighthCoin</source>
+        <translation>Verander configuratie opties voor EighthCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-200"/>
-        <source>EightCoin</source>
-        <translation>EightCoin</translation>
+        <source>EighthCoin</source>
+        <translation>EighthCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About EightCoin</source>
-        <translation>&amp;Over EightCoin</translation>
+        <source>&amp;About EighthCoin</source>
+        <translation>&amp;Over EighthCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>EightCoin client</source>
-        <translation>EightCoin client</translation>
+        <source>EighthCoin client</source>
+        <translation>EighthCoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to EightCoin network</source>
-        <translation><numerusform>%n actieve verbinding naar EightCoin netwerk</numerusform><numerusform>%n actieve verbindingen naar EightCoin netwerk</numerusform></translation>
+        <source>%n active connection(s) to EighthCoin network</source>
+        <translation><numerusform>%n actieve verbinding naar EighthCoin netwerk</numerusform><numerusform>%n actieve verbindingen naar EighthCoin netwerk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid EightCoin address or malformed URI parameters.</source>
-        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig EightCoin adres of incorrecte URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid EighthCoin address or malformed URI parameters.</source>
+        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig EighthCoin adres of incorrecte URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. EightCoin can no longer continue safely and will quit.</source>
-        <translation>Een fatale fout . EightCoin kan niet langer veilig doorgaan en sluit af.</translation>
+        <source>A fatal error occurred. EighthCoin can no longer continue safely and will quit.</source>
+        <translation>Een fatale fout . EighthCoin kan niet langer veilig doorgaan en sluit af.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid EightCoin address.</source>
-        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig EightCoin adres.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid EighthCoin address.</source>
+        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig EighthCoin adres.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>EightCoin-Qt</source>
-        <translation>EightCoin-Qt</translation>
+        <source>EighthCoin-Qt</source>
+        <translation>EighthCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start EightCoin after logging in to the system.</source>
-        <translation>Automatisch starten van EightCoin na inloggen van het systeem.</translation>
+        <source>Automatically start EighthCoin after logging in to the system.</source>
+        <translation>Automatisch starten van EighthCoin na inloggen van het systeem.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start EightCoin on system login</source>
-        <translation>&amp;Start EightCoin bij systeem aanmelding</translation>
+        <source>&amp;Start EighthCoin on system login</source>
+        <translation>&amp;Start EighthCoin bij systeem aanmelding</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the EightCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>De EightCoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
+        <source>Automatically open the EighthCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>De EighthCoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the EightCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbinding maken met het EightCoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
+        <source>Connect to the EighthCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbinding maken met het EighthCoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting EightCoin.</source>
-        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na EightCoin opnieuw op te starten.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting EighthCoin.</source>
+        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na EighthCoin opnieuw op te starten.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show EightCoin addresses in the transaction list or not.</source>
-        <translation>EightCoin adressen in de transactielijst weergeven of niet</translation>
+        <source>Whether to show EighthCoin addresses in the transaction list or not.</source>
+        <translation>EighthCoin adressen in de transactielijst weergeven of niet</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting EightCoin.</source>
-        <translation>Deze instelling word toegepast na een restart van EightCoin.</translation>
+        <source>This setting will take effect after restarting EighthCoin.</source>
+        <translation>Deze instelling word toegepast na een restart van EighthCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the EightCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het EightCoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the EighthCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het EighthCoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the EightCoin-Qt help message to get a list with possible EightCoin command-line options.</source>
-        <translation>Laat het EightCoin-QT help bericht zien om een lijst te krijgen met mogelijke EightCoin command-regel opties.</translation>
+        <source>Show the EighthCoin-Qt help message to get a list with possible EighthCoin command-line options.</source>
+        <translation>Laat het EighthCoin-QT help bericht zien om een lijst te krijgen met mogelijke EighthCoin command-regel opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>EightCoin - Debug window</source>
-        <translation>EightCoin - Debugscherm</translation>
+        <source>EighthCoin - Debug window</source>
+        <translation>EighthCoin - Debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>EightCoin Core</source>
-        <translation>EightCoin Kern</translation>
+        <source>EighthCoin Core</source>
+        <translation>EighthCoin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the EightCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het EightCoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
+        <source>Open the EighthCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het EighthCoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the EightCoin RPC console.</source>
-        <translation>Welkom bij de EightCoin RPC console.</translation>
+        <source>Welcome to the EighthCoin RPC console.</source>
+        <translation>Welkom bij de EighthCoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een EightCoin adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EighthCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Voeg een EighthCoin adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid EightCoin address</source>
-        <translation>WAARSCHUWING: Ongeldig EightCoin adres</translation>
+        <source>WARNING: Invalid EighthCoin address</source>
+        <translation>WAARSCHUWING: Ongeldig EighthCoin adres</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,8 +1930,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een EightCoin adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EighthCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Voeg een EighthCoin adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this EightCoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een EightCoin adres bezit.</translation>
+        <source>Sign the message to prove you own this EighthCoin address</source>
+        <translation>Teken een bericht om te bewijzen dat je een EighthCoin adres bezit.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified EightCoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek EightCoin adres</translation>
+        <source>Verify the message to ensure it was signed with the specified EighthCoin address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek EighthCoin adres</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a EightCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een EightCoin adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a EighthCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Voeg een EighthCoin adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter EightCoin signature</source>
-        <translation>Voer EightCoin handtekening in</translation>
+        <source>Enter EighthCoin signature</source>
+        <translation>Voer EighthCoin handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>EightCoin version</source>
-        <translation>EightCoin versie</translation>
+        <source>EighthCoin version</source>
+        <translation>EighthCoin versie</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2800,8 +2800,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong EightCoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is EightCoin zal niet goed werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong EighthCoin will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is EighthCoin zal niet goed werken.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2996,7 +2996,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;EighthCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een rpcpassword instellen in het configuratiebestand: 
 %s 
@@ -3007,7 +3007,7 @@ rpcpassword = %s
 De gebruikersnaam en het wachtwoord MAG NIET hetzelfde zijn. 
 Als het bestand niet bestaat, maakt u met leesbare-alleen-eigenaar bestandsbeheermachtigingen.  
 Het wordt ook aanbevolen om alertnotify instellen zodat u een melding van problemen;  
-bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;EightCoin Alert&quot; admin@foo.com </translation>
+bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;EighthCoin Alert&quot; admin@foo.com </translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3131,13 +3131,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;EightCoin Alert&quot; admin
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  EightCoin is probably already running.</source>
-        <translation>Kan een slot op data directory %s niet verkrijgen. EightCoin wordt waarschijnlijk al uitgevoerd.</translation>
+        <source>Cannot obtain a lock on data directory %s.  EighthCoin is probably already running.</source>
+        <translation>Kan een slot op data directory %s niet verkrijgen. EighthCoin wordt waarschijnlijk al uitgevoerd.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>EightCoin</source>
-        <translation>EightCoin</translation>
+        <source>EighthCoin</source>
+        <translation>EighthCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3171,13 +3171,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;EightCoin Alert&quot; admin
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of EightCoin</source>
-        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van EightCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of EighthCoin</source>
+        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van EighthCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart EightCoin to complete</source>
-        <translation>Portemonnee moet herschreven worden: herstart EightCoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart EighthCoin to complete</source>
+        <translation>Portemonnee moet herschreven worden: herstart EighthCoin om te voltooien</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3246,8 +3246,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;EightCoin Alert&quot; admin
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. EightCoin is probably already running.</source>
-        <translation>Niet mogelijk om %s op deze computer. EightCoin is waarschijnlijk al geopened.</translation>
+        <source>Unable to bind to %s on this computer. EighthCoin is probably already running.</source>
+        <translation>Niet mogelijk om %s op deze computer. EighthCoin is waarschijnlijk al geopened.</translation>
     </message>
     <message>
         <location line="-97"/>
