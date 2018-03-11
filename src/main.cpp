@@ -1005,7 +1005,7 @@ int64_t GetProofOfWorkReward(int64_t nFees)
 
     if(nBestHeight == 8)
     {
-        nSubsidy = 88888888 * COIN;
+        nSubsidy = 888888888 * COIN;
     }
 
     if (fDebug && GetBoolArg("-printcreation"))
