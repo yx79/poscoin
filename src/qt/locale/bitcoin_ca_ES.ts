@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or eightcoind</source>
-        <translation>Enviar comandes a -server o eightcoind</translation>
+        <source>Send command to -server or eighthcoind</source>
+        <translation>Enviar comandes a -server o eighthcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2636,13 +2636,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: eightcoin.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: eightcoin.conf)</translation>
+        <source>Specify configuration file (default: eighthcoin.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: eighthcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: eightcoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: eightcoind.pid)</translation>
+        <source>Specify pid file (default: eighthcoind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: eighthcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2981,7 +2981,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=eightcoinrpc
+rpcuser=eighthcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2992,7 +2992,7 @@ for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@fo
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=eightcoinrpc
+rpcuser=eighthcoinrpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.

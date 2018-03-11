@@ -2623,8 +2623,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or eightcoind</source>
-        <translation>-sunucu veya eightcoind&apos;ye komut gönder</translation>
+        <source>Send command to -server or eighthcoind</source>
+        <translation>-sunucu veya eighthcoind&apos;ye komut gönder</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2643,13 +2643,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: eightcoin.conf)</source>
-        <translation>Konfigürasyon dosyasını belirt (varsayılan: eightcoin.conf)</translation>
+        <source>Specify configuration file (default: eighthcoin.conf)</source>
+        <translation>Konfigürasyon dosyasını belirt (varsayılan: eighthcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: eightcoind.pid)</source>
-        <translation>pid dosyasını belirt (varsayılan: eightcoin.pid)</translation>
+        <source>Specify pid file (default: eighthcoind.pid)</source>
+        <translation>pid dosyasını belirt (varsayılan: eighthcoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2988,7 +2988,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=eightcoinrpc
+rpcuser=eighthcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2999,7 +2999,7 @@ for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@fo
         <translation>%s, konfigürasyon dosyasında bir rpcpassword belirlemelisiniz:
  %s
 Aşağıdaki rastgele parolayı kullanmanız tavsiye edilir:
-rpcuser=eightcoinrpc
+rpcuser=eighthcoinrpc
 rpcpassword=%s
 (bu parolayı hatırlamanız gerekmemektedir)
 Kullanıcı adı ve parola aynı OLMAMALIDIR.

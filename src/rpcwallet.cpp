@@ -229,7 +229,7 @@ Value setaccount(const Array& params, bool fHelp)
 {
     if (fHelp || params.size() < 1 || params.size() > 2)
         throw runtime_error(
-            "setaccount <eightcoinaddress> <account>\n"
+            "setaccount <eighthcoinaddress> <account>\n"
             "Sets the account associated with the given address.");
 
     CBitcoinAddress address(params[0].get_str());
@@ -259,7 +259,7 @@ Value getaccount(const Array& params, bool fHelp)
 {
     if (fHelp || params.size() != 1)
         throw runtime_error(
-            "getaccount <eightcoinaddress>\n"
+            "getaccount <eighthcoinaddress>\n"
             "Returns the account associated with the given address.");
 
     CBitcoinAddress address(params[0].get_str());
@@ -299,7 +299,7 @@ Value sendtoaddress(const Array& params, bool fHelp)
 {
     if (fHelp || params.size() < 2 || params.size() > 4)
         throw runtime_error(
-            "sendtoaddress <eightcoinaddress> <amount> [comment] [comment-to]\n"
+            "sendtoaddress <eighthcoinaddress> <amount> [comment] [comment-to]\n"
             "<amount> is a real and is rounded to the nearest 0.000001"
             + HelpRequiringPassphrase());
 
@@ -362,7 +362,7 @@ Value signmessage(const Array& params, bool fHelp)
 {
     if (fHelp || params.size() != 2)
         throw runtime_error(
-            "signmessage <eightcoinaddress> <message>\n"
+            "signmessage <eighthcoinaddress> <message>\n"
             "Sign a message with the private key of an address");
 
     EnsureWalletIsUnlocked();
@@ -397,7 +397,7 @@ Value verifymessage(const Array& params, bool fHelp)
 {
     if (fHelp || params.size() != 3)
         throw runtime_error(
-            "verifymessage <eightcoinaddress> <signature> <message>\n"
+            "verifymessage <eighthcoinaddress> <signature> <message>\n"
             "Verify a signed message");
 
     string strAddress  = params[0].get_str();
@@ -434,8 +434,8 @@ Value getreceivedbyaddress(const Array& params, bool fHelp)
 {
     if (fHelp || params.size() < 1 || params.size() > 2)
         throw runtime_error(
-            "getreceivedbyaddress <eightcoinaddress> [minconf=1]\n"
-            "Returns the total amount received by <eightcoinaddress> in transactions with at least [minconf] confirmations.");
+            "getreceivedbyaddress <eighthcoinaddress> [minconf=1]\n"
+            "Returns the total amount received by <eighthcoinaddress> in transactions with at least [minconf] confirmations.");
 
     // Bitcoin address
     CBitcoinAddress address = CBitcoinAddress(params[0].get_str());
@@ -662,7 +662,7 @@ Value sendfrom(const Array& params, bool fHelp)
 {
     if (fHelp || params.size() < 3 || params.size() > 6)
         throw runtime_error(
-            "sendfrom <fromaccount> <toeightcoinaddress> <amount> [minconf=1] [comment] [comment-to]\n"
+            "sendfrom <fromaccount> <toeighthcoinaddress> <amount> [minconf=1] [comment] [comment-to]\n"
             "<amount> is a real and is rounded to the nearest 0.000001"
             + HelpRequiringPassphrase());
 
@@ -1373,7 +1373,7 @@ Value keypoolrefill(const Array& params, bool fHelp)
 void ThreadTopUpKeyPool(void* parg)
 {
     // Make this thread recognisable as the key-topping-up thread
-    RenameThread("eightcoin-key-top");
+    RenameThread("eighthcoin-key-top");
 
     pwalletMain->TopUpKeyPool();
 }
@@ -1381,7 +1381,7 @@ void ThreadTopUpKeyPool(void* parg)
 void ThreadCleanWalletPassphrase(void* parg)
 {
     // Make this thread recognisable as the wallet relocking thread
-    RenameThread("eightcoin-lock-wa");
+    RenameThread("eighthcoin-lock-wa");
 
     int64_t nMyWakeTime = GetTimeMillis() + *((int64_t*)parg) * 1000;
 
@@ -1595,8 +1595,8 @@ Value validateaddress(const Array& params, bool fHelp)
 {
     if (fHelp || params.size() != 1)
         throw runtime_error(
-            "validateaddress <eightcoinaddress>\n"
-            "Return information about <eightcoinaddress>.");
+            "validateaddress <eighthcoinaddress>\n"
+            "Return information about <eighthcoinaddress>.");
 
     CBitcoinAddress address(params[0].get_str());
     bool isValid = address.IsValid();
@@ -1624,8 +1624,8 @@ Value validatepubkey(const Array& params, bool fHelp)
 {
     if (fHelp || !params.size() || params.size() > 2)
         throw runtime_error(
-            "validatepubkey <eightcoinpubkey>\n"
-            "Return information about <eightcoinpubkey>.");
+            "validatepubkey <eighthcoinpubkey>\n"
+            "Return information about <eighthcoinpubkey>.");
 
     std::vector<unsigned char> vchPubKey = ParseHex(params[0].get_str());
     CPubKey pubKey(vchPubKey);

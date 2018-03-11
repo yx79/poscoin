@@ -2611,7 +2611,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or eightcoind</source>
+        <source>Send command to -server or eighthcoind</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2631,12 +2631,12 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: eightcoin.conf)</source>
+        <source>Specify configuration file (default: eighthcoin.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: eightcoind.pid)</source>
+        <source>Specify pid file (default: eighthcoind.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2975,7 +2975,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=eightcoinrpc
+rpcuser=eighthcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.

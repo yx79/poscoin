@@ -2653,8 +2653,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or eightcoind</source>
-        <translation>Send command to -server or eightcoind</translation>
+        <source>Send command to -server or eighthcoind</source>
+        <translation>Send command to -server or eighthcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2673,13 +2673,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: eightcoin.conf)</source>
-        <translation>Specify configuration file (default: eightcoin.conf)</translation>
+        <source>Specify configuration file (default: eighthcoin.conf)</source>
+        <translation>Specify configuration file (default: eighthcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: eightcoind.pid)</source>
-        <translation>Specify pid file (default: eightcoind.pid)</translation>
+        <source>Specify pid file (default: eighthcoind.pid)</source>
+        <translation>Specify pid file (default: eighthcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3017,7 +3017,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=eightcoinrpc
+rpcuser=eighthcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.

@@ -2623,8 +2623,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or eightcoind</source>
-        <translation>Syötä komento kohteeseen -server tai eightcoind</translation>
+        <source>Send command to -server or eighthcoind</source>
+        <translation>Syötä komento kohteeseen -server tai eighthcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2643,13 +2643,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: eightcoin.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: eightcoin.conf)</translation>
+        <source>Specify configuration file (default: eighthcoin.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: eighthcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: eightcoind.pid)</source>
-        <translation>Määritä prosessitiedosto (oletus: eightcoin.pid)</translation>
+        <source>Specify pid file (default: eighthcoind.pid)</source>
+        <translation>Määritä prosessitiedosto (oletus: eighthcoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2988,7 +2988,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=eightcoinrpc
+rpcuser=eighthcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2999,7 +2999,7 @@ for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@fo
         <translation>%s, sinun on asetettava rpcpassword asetustiedostoon:
 %s
 On suositeltavaa, että käytät seuraavaa arvottua salasanaa:
-rpcuser=eightcoinrpc
+rpcuser=eighthcoinrpc
 rpcpassword=%s
 (Sinun ei tarvitse muistaa tätä salasanaa)
 Käyttäjänimen ja salasanan EI TULE OLLA SAMOJA.

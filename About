@@ -39,10 +39,10 @@ checkwallet
 createrawtransaction [{"txid":txid,"vout":n},...] {address:amount,...}
 decoderawtransaction <hex string>
 decodescript <hex string>
-dumpprivkey <eightcoinaddress>
+dumpprivkey <eighthcoinaddress>
 dumpwallet <filename>
 encryptwallet <passphrase>
-getaccount <eightcoinaddress>
+getaccount <eighthcoinaddress>
 getaccountaddress <account>
 getaddressesbyaccount <account>
 getbalance [account] [minconf=1]
@@ -63,14 +63,14 @@ getpeerinfo
 getrawmempool
 getrawtransaction <txid> [verbose=0]
 getreceivedbyaccount <account> [minconf=1]
-getreceivedbyaddress <eightcoinaddress> [minconf=1]
+getreceivedbyaddress <eighthcoinaddress> [minconf=1]
 getstakinginfo
 getsubsidy [nTarget]
 gettransaction <txid>
 getwork [data]
 getworkex [data, coinbase]
 help [command]
-importprivkey <eightcoinprivkey> [label]
+importprivkey <eighthcoinprivkey> [label]
 importwallet <filename>
 keypoolrefill [new-size]
 listaccounts [minconf=1]
@@ -86,16 +86,16 @@ repairwallet
 resendtx
 reservebalance [<reserve> [amount]]
 sendalert <message> <privatekey> <minver> <maxver> <priority> <id> [cancelupto]
-sendfrom <fromaccount> <toeightcoinaddress> <amount> [minconf=1] [comment] [comment-to]
+sendfrom <fromaccount> <toeighthcoinaddress> <amount> [minconf=1] [comment] [comment-to]
 sendmany <fromaccount> {address:amount,...} [minconf=1] [comment]
 sendrawtransaction <hex string>
-sendtoaddress <eightcoinaddress> <amount> [comment] [comment-to]
-setaccount <eightcoinaddress> <account>
+sendtoaddress <eighthcoinaddress> <amount> [comment] [comment-to]
+setaccount <eighthcoinaddress> <account>
 settxfee <amount>
-signmessage <eightcoinaddress> <message>
+signmessage <eighthcoinaddress> <message>
 signrawtransaction <hex string> [{"txid":txid,"vout":n,"scriptPubKey":hex},...] [<privatekey1>,...] [sighashtype="ALL"]
 stop
 submitblock <hex data> [optional-params-obj]
-validateaddress <eightcoinaddress>
-validatepubkey <eightcoinpubkey>
-verifymessage <eightcoinaddress> <signature> <message>
+validateaddress <eighthcoinaddress>
+validatepubkey <eighthcoinpubkey>
+verifymessage <eighthcoinaddress> <signature> <message>

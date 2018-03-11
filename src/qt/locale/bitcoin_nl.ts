@@ -2625,8 +2625,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or eightcoind</source>
-        <translation>Verstuur commando naar -server of eightcoind</translation>
+        <source>Send command to -server or eighthcoind</source>
+        <translation>Verstuur commando naar -server of eighthcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: eightcoin.conf)</source>
-        <translation>Selecteer configuratie bestand (standaard: eightcoin.conf)</translation>
+        <source>Specify configuration file (default: eighthcoin.conf)</source>
+        <translation>Selecteer configuratie bestand (standaard: eighthcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: eightcoind.pid)</source>
-        <translation>Selecteer pid bestand (standaard: eightcoin.conf)</translation>
+        <source>Specify pid file (default: eighthcoind.pid)</source>
+        <translation>Selecteer pid bestand (standaard: eighthcoin.conf)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2990,7 +2990,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=eightcoinrpc
+rpcuser=eighthcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -3001,7 +3001,7 @@ for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@fo
         <translation>%s, u moet een rpcpassword instellen in het configuratiebestand: 
 %s 
 Het wordt aanbevolen de volgende willekeurig wachtwoord gebruiken: 
-rpcuser = eightcoinrpc 
+rpcuser = eighthcoinrpc 
 rpcpassword = %s 
 (je hoeft niet dit wachtwoord te onthouden) 
 De gebruikersnaam en het wachtwoord MAG NIET hetzelfde zijn. 

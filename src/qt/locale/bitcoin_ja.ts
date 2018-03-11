@@ -2624,8 +2624,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or eightcoind</source>
-        <translation>-server か eightcoindへコマンドを送る。</translation>
+        <source>Send command to -server or eighthcoind</source>
+        <translation>-server か eighthcoindへコマンドを送る。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2644,13 +2644,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: eightcoin.conf)</source>
-        <translation>設定ファイルを特定する (デファルト: eightcoin.conf)</translation>
+        <source>Specify configuration file (default: eighthcoin.conf)</source>
+        <translation>設定ファイルを特定する (デファルト: eighthcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: eightcoind.pid)</source>
-        <translation>pid ファイルを特定する (デフォルト: eightcoind.pid)</translation>
+        <source>Specify pid file (default: eighthcoind.pid)</source>
+        <translation>pid ファイルを特定する (デフォルト: eighthcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2989,7 +2989,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=eightcoinrpc
+rpcuser=eighthcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -3000,7 +3000,7 @@ for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@fo
         <translation>%s, 設定ファイル：%sでrpcpasswordのパスワードを入力しなければならい
 
 このランダムパスワードのおすすめです：
-rpcuser=eightcoinrpc
+rpcuser=eighthcoinrpc
 rpcpassword=%s
 (このパサワードを覚えなくても大丈夫です)
 ユーザ名とパスワードは同じであってはなりません。

@@ -82,7 +82,7 @@ void setupAmountWidget(QLineEdit *widget, QWidget *parent)
 bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 {
     // NovaCoin: check prefix
-    if(uri.scheme() != QString("eightcoin"))
+    if(uri.scheme() != QString("eighthcoin"))
         return false;
 
     SendCoinsRecipient rv;
@@ -127,13 +127,13 @@ bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 
 bool parseBitcoinURI(QString uri, SendCoinsRecipient *out)
 {
-    // Convert eightcoin:// to eightcoin:
+    // Convert eighthcoin:// to eighthcoin:
     //
     //    Cannot handle this later, because bitcoin:// will cause Qt to see the part after // as host,
     //    which will lower-case it (and thus invalidate the address).
-    if(uri.startsWith("eightcoin://"))
+    if(uri.startsWith("eighthcoin://"))
     {
-        uri.replace(0, 12, "eightcoin:");
+        uri.replace(0, 12, "eighthcoin:");
     }
     QUrl uriInstance(uri);
     return parseBitcoinURI(uriInstance, out);
@@ -359,7 +359,7 @@ boost::filesystem::path static GetAutostartDir()
 
 boost::filesystem::path static GetAutostartFilePath()
 {
-    return GetAutostartDir() / "eightcoin.desktop";
+    return GetAutostartDir() / "eighthcoin.desktop";
 }
 
 bool GetStartOnSystemStartup()
@@ -424,7 +424,7 @@ HelpMessageBox::HelpMessageBox(QWidget *parent) :
     header = tr("EightCoin-Qt") + " " + tr("version") + " " +
         QString::fromStdString(FormatFullVersion()) + "\n\n" +
         tr("Usage:") + "\n" +
-        "  eightcoin-qt [" + tr("command-line options") + "]                     " + "\n";
+        "  eighthcoin-qt [" + tr("command-line options") + "]                     " + "\n";
 
     coreOptions = QString::fromStdString(HelpMessage());
 

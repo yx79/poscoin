@@ -955,7 +955,7 @@ static std::string FormatException(std::exception* pex, const char* pszThread)
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "eightcoin";
+    const char* pszModule = "eighthcoin";
 #endif
     if (pex)
         return strprintf(
@@ -988,7 +988,7 @@ boost::filesystem::path GetDefaultDataDir()
     // Windows < Vista: C:\Documents and Settings\Username\Application Data\EightCoin
     // Windows >= Vista: C:\Users\Username\AppData\Roaming\EightCoin
     // Mac: ~/Library/Application Support/EightCoin
-    // Unix: ~/.eightcoin
+    // Unix: ~/.eighthcoin
 #ifdef WIN32
     // Windows
     return GetSpecialFolderPath(CSIDL_APPDATA) / "EightCoin";
@@ -1006,7 +1006,7 @@ boost::filesystem::path GetDefaultDataDir()
     return pathRet / "EightCoin";
 #else
     // Unix
-    return pathRet / ".eightcoin";
+    return pathRet / ".eighthcoin";
 #endif
 #endif
 }
@@ -1048,7 +1048,7 @@ const boost::filesystem::path &GetDataDir(bool fNetSpecific)
 
 boost::filesystem::path GetConfigFile()
 {
-    boost::filesystem::path pathConfigFile(GetArg("-conf", "eightcoin.conf"));
+    boost::filesystem::path pathConfigFile(GetArg("-conf", "eighthcoin.conf"));
     if (!pathConfigFile.is_complete()) pathConfigFile = GetDataDir(false) / pathConfigFile;
     return pathConfigFile;
 }
@@ -1079,7 +1079,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 
 boost::filesystem::path GetPidFile()
 {
-    boost::filesystem::path pathPidFile(GetArg("-pid", "eightcoind.pid"));
+    boost::filesystem::path pathPidFile(GetArg("-pid", "eighthcoind.pid"));
     if (!pathPidFile.is_complete()) pathPidFile = GetDataDir() / pathPidFile;
     return pathPidFile;
 }

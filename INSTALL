@@ -4,6 +4,6 @@ See doc/readme-qt.rst for instructions on building EightCoin QT,
 the intended-for-end-users, nice-graphical-interface, reference
 implementation of EightCoin.
 
-See doc/build-*.txt for instructions on building eightcoind,
+See doc/build-*.txt for instructions on building eighthcoind,
 the intended-for-services, no-graphical-interface, reference
 implementation of EightCoin.

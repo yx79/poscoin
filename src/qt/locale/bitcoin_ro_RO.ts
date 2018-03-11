@@ -2625,8 +2625,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or eightcoind</source>
-        <translation>Trimite comanda catre server sau eightcoind</translation>
+        <source>Send command to -server or eighthcoind</source>
+        <translation>Trimite comanda catre server sau eighthcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: eightcoin.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: eightcoin.conf)</translation>
+        <source>Specify configuration file (default: eighthcoin.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: eighthcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: eightcoind.pid)</source>
-        <translation>Speficica fisier pid(implicit: eightcoin.pid)</translation>
+        <source>Specify pid file (default: eighthcoind.pid)</source>
+        <translation>Speficica fisier pid(implicit: eighthcoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2990,7 +2990,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=eightcoinrpc
+rpcuser=eighthcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2999,7 +2999,7 @@ It is also recommended to set alertnotify so you are notified of problems;
 for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
-Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=eightcoinrpc
+Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=eighthcoinrpc
 rpcpassword=%s
 (nu trebuie să țineți minte această parolă)
 Username-ul și parola NU TREBUIE să fie aceleași.

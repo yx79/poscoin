@@ -79,6 +79,6 @@ cp *.h miniupnpc/
 EightCoin
 -------
 DOS prompt:
-cd \eightcoin\src
+cd \eighthcoin\src
 mingw32-make -f makefile.mingw
-strip eightcoind.exe
+strip eighthcoind.exe

@@ -2626,8 +2626,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or eightcoind</source>
-        <translation>Skicka kommando till -server eller eightcoind</translation>
+        <source>Send command to -server or eighthcoind</source>
+        <translation>Skicka kommando till -server eller eighthcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: eightcoin.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: eightcoin.conf)</translation>
+        <source>Specify configuration file (default: eighthcoin.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: eighthcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: eightcoind.pid)</source>
-        <translation>Ange pid filen (standard eightcoind.pid)</translation>
+        <source>Specify pid file (default: eighthcoind.pid)</source>
+        <translation>Ange pid filen (standard eighthcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2991,7 +2991,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=eightcoinrpc
+rpcuser=eighthcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -3002,7 +3002,7 @@ for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@fo
         <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
  %s
 Det är rekommenderat att du använder följande slumpmässiga lösenord:
-rpcuser=eightcoinrpc
+rpcuser=eighthcoinrpc
 rpcpassword=%s
 (du behöver inte komma ihåg detta lösenord)
 Användarnamnet och lösenordet FÅR INTE vara samma.

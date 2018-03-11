@@ -408,7 +408,7 @@ bool GetMyExternalIP(CNetAddr& ipRet)
 void ThreadGetMyExternalIP(void* parg)
 {
     // Make this thread recognisable as the external IP detection thread
-    RenameThread("eightcoin-ext-ip");
+    RenameThread("eighthcoin-ext-ip");
 
     CNetAddr addrLocalHost;
     if (GetMyExternalIP(addrLocalHost))
@@ -749,7 +749,7 @@ void SocketSendData(CNode *pnode)
 void ThreadSocketHandler(void* parg)
 {
     // Make this thread recognisable as the networking thread
-    RenameThread("eightcoin-net");
+    RenameThread("eighthcoin-net");
 
     try
     {
@@ -1078,7 +1078,7 @@ void ThreadSocketHandler2(void* parg)
 void ThreadMapPort(void* parg)
 {
     // Make this thread recognisable as the UPnP thread
-    RenameThread("eightcoin-UPnP");
+    RenameThread("eighthcoin-UPnP");
 
     try
     {
@@ -1238,7 +1238,7 @@ static const char *strDNSSeed[][2] = {
 void ThreadDNSAddressSeed(void* parg)
 {
     // Make this thread recognisable as the DNS seeding thread
-    RenameThread("eightcoin-dnsseed");
+    RenameThread("eighthcoin-dnsseed");
 
     try
     {
@@ -1332,7 +1332,7 @@ void ThreadDumpAddress2(void* parg)
 void ThreadDumpAddress(void* parg)
 {
     // Make this thread recognisable as the address dumping thread
-    RenameThread("eightcoin-adrdump");
+    RenameThread("eighthcoin-adrdump");
 
     try
     {
@@ -1347,7 +1347,7 @@ void ThreadDumpAddress(void* parg)
 void ThreadOpenConnections(void* parg)
 {
     // Make this thread recognisable as the connection opening thread
-    RenameThread("eightcoin-opencon");
+    RenameThread("eighthcoin-opencon");
 
     try
     {
@@ -1528,7 +1528,7 @@ void ThreadOpenConnections2(void* parg)
 void ThreadOpenAddedConnections(void* parg)
 {
     // Make this thread recognisable as the connection opening thread
-    RenameThread("eightcoin-opencon");
+    RenameThread("eighthcoin-opencon");
 
     try
     {
@@ -1659,7 +1659,7 @@ bool OpenNetworkConnection(const CAddress& addrConnect, CSemaphoreGrant *grantOu
 void ThreadMessageHandler(void* parg)
 {
     // Make this thread recognisable as the message handling thread
-    RenameThread("eightcoin-msghand");
+    RenameThread("eighthcoin-msghand");
 
     try
     {
@@ -1906,7 +1906,7 @@ void static Discover()
 void StartNode(void* parg)
 {
     // Make this thread recognisable as the startup thread
-    RenameThread("eightcoin-start");
+    RenameThread("eighthcoin-start");
 
     if (semOutbound == NULL) {
         // initialize semaphore

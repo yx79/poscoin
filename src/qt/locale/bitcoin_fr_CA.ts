@@ -2625,8 +2625,8 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or eightcoind</source>
-        <translation>Envoyer commande à -server ou eightcoind</translation>
+        <source>Send command to -server or eighthcoind</source>
+        <translation>Envoyer commande à -server ou eighthcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: eightcoin.conf)</source>
-        <translation>Spécifier le fichier de configuration (defaut: eightcoin.conf)</translation>
+        <source>Specify configuration file (default: eighthcoin.conf)</source>
+        <translation>Spécifier le fichier de configuration (defaut: eighthcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: eightcoind.pid)</source>
-        <translation>Spécifier le fichier pid (defaut: eightcoind.pid)
+        <source>Specify pid file (default: eighthcoind.pid)</source>
+        <translation>Spécifier le fichier pid (defaut: eighthcoind.pid)
 </translation>
     </message>
     <message>
@@ -2991,7 +2991,7 @@ Les montants inférieurs à  0.546 fois les frais minimum de relais apparaissent
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=eightcoinrpc
+rpcuser=eighthcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -3002,7 +3002,7 @@ for example: alertnotify=echo %%s | mail -s &quot;EightCoin Alert&quot; admin@fo
         <translation>%s, vous devez définir un mot de passe rpc &apos;rpcpassword&apos; au sein du fichier de configuration:
  %s
 Il est recommandé d&apos;utiliser le mot de passe aléatoire suivant:
-rpcuser=eightcoinrpc
+rpcuser=eighthcoinrpc
 rpcpassword=%s
 (il n&apos;est pas nécessaire de retenir ce mot de passe)
 Le nom d&apos;utilisateur et le mot de passe doivent IMPERATIVEMENT être différents.
