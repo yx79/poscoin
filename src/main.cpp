@@ -1006,12 +1006,14 @@ int64_t GetProofOfWorkReward(int64_t nFees)
     if(nBestHeight == 8)
     {
         nSubsidy = 888888888 * COIN;
-    } 
-    
-    if(nBestHeight == 88)
+    } else if(nBestHeight == 88)
     {
         nSubsidy = 888888888 * COIN;
+    } else if (nBestHeight > 88 && nBestHeight % 8 == 0) 
+    {
+        nSubsidy = 8888 * COIN;
     }
+        
 
     if (fDebug && GetBoolArg("-printcreation"))
         printf("GetProofOfWorkReward() : create=%s nSubsidy=%"PRId64"\n", FormatMoney(nSubsidy).c_str(), nSubsidy);
