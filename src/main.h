@@ -52,7 +52,7 @@ inline bool MoneyRange(int64_t nValue) { return (nValue >= 0 && nValue <= MAX_MO
 /** Threshold for nLockTime: below this value it is interpreted as block number, otherwise as UNIX timestamp. */
 static const unsigned int LOCKTIME_THRESHOLD = 500000000; // Tue Nov  5 00:53:20 1985 UTC
 
-static const int64_t COIN_YEAR_REWARD = 8 * CENT;
+static const int64_t COIN_YEAR_REWARD = 88 * CENT;
 
 // EDITING: GENESIS
 static const uint256 hashGenesisBlock("0x00000e80818377172e1b560900044dd708bd1e563dc1a9106673f5c3b3ddb51b");
