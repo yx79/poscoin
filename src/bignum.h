@@ -57,9 +57,10 @@ public:
 class CBigNum
 {
 
-    BIGNUM* bn;
-    
 public:
+
+    BIGNUM* bn;
+
     
     CBigNum()
         : bn(BN_new()) {}
