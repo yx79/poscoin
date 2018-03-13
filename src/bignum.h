@@ -56,9 +56,10 @@ public:
 /** C++ wrapper for BIGNUM (OpenSSL bignum) */
 class CBigNum
 {
+
+    BIGNUM* bn;
     
 public:
-    BIGNUM* bn;
     
     CBigNum()
         : bn(BN_new()) {}
@@ -654,6 +655,14 @@ public:
     friend inline const CBigNum operator*(const CBigNum& a, const CBigNum& b);
 
     friend inline bool operator<(const CBigNum& a, const CBigNum& b);
+
+    const BIGNUM* to_bignum() const {
+        return bn;
+    }
+
+    BIGNUM* to_bignum() {
+        return bn;
+    }
 };
 
 
@@ -661,7 +670,7 @@ public:
 inline const CBigNum operator+(const CBigNum& a, const CBigNum& b)
 {
     CBigNum r;
-    if (!BN_add(r.bn, a.bn, b.bn))
+    if (!BN_add(r.to_bignum(), a.to_bignum(), b.to_bignum()))
         throw bignum_error("CBigNum::operator+ : BN_add failed");
     return r;
 }
@@ -669,7 +678,7 @@ inline const CBigNum operator+(const CBigNum& a, const CBigNum& b)
 inline const CBigNum operator-(const CBigNum& a, const CBigNum& b)
 {
     CBigNum r;
-    if (!BN_sub(r.bn, a.bn, b.bn))
+    if (!BN_sub(r.to_bignum(), a.to_bignum(), b.to_bignum()))
         throw bignum_error("CBigNum::operator- : BN_sub failed");
     return r;
 }
@@ -677,7 +686,7 @@ inline const CBigNum operator-(const CBigNum& a, const CBigNum& b)
 inline const CBigNum operator-(const CBigNum& a)
 {
     CBigNum r(a);
-    BN_set_negative(r.bn, !BN_is_negative(r.bn));
+    BN_set_negative(r.to_bignum(), !BN_is_negative(r.to_bignum()));
     return r;
 }
 
@@ -685,7 +694,7 @@ inline const CBigNum operator*(const CBigNum& a, const CBigNum& b)
 {
     CAutoBN_CTX pctx;
     CBigNum r;
-    if (!BN_mul(r.bn, a.bn, b.bn, pctx))
+    if (!BN_mul(r.to_bignum(), a.to_bignum(), b.to_bignum(), pctx))
         throw bignum_error("CBigNum::operator* : BN_mul failed");
     return r;
 }
@@ -694,7 +703,7 @@ inline const CBigNum operator/(const CBigNum& a, const CBigNum& b)
 {
     CAutoBN_CTX pctx;
     CBigNum r;
-    if (!BN_div(r.bn, NULL, a.bn, b.bn, pctx))
+    if (!BN_div(r.to_bignum(), NULL, a.to_bignum(), b.to_bignum(), pctx))
         throw bignum_error("CBigNum::operator/ : BN_div failed");
     return r;
 }
@@ -703,7 +712,7 @@ inline const CBigNum operator%(const CBigNum& a, const CBigNum& b)
 {
     CAutoBN_CTX pctx;
     CBigNum r;
-    if (!BN_nnmod(r.bn, a.bn, b.bn, pctx))
+    if (!BN_nnmod(r.to_bignum(), a.to_bignum(), b.to_bignum(), pctx))
         throw bignum_error("CBigNum::operator% : BN_div failed");
     return r;
 }
@@ -711,7 +720,7 @@ inline const CBigNum operator%(const CBigNum& a, const CBigNum& b)
 inline const CBigNum operator<<(const CBigNum& a, unsigned int shift)
 {
     CBigNum r;
-    if (!BN_lshift(r.bn, a.bn, shift))
+    if (!BN_lshift(r.to_bignum(), a.to_bignum(), shift))
         throw bignum_error("CBigNum:operator<< : BN_lshift failed");
     return r;
 }
@@ -723,12 +732,12 @@ inline const CBigNum operator>>(const CBigNum& a, unsigned int shift)
     return r;
 }
 
-inline bool operator==(const CBigNum& a, const CBigNum& b) { return (BN_cmp(a.bn, b.bn) == 0); }
-inline bool operator!=(const CBigNum& a, const CBigNum& b) { return (BN_cmp(a.bn, b.bn) != 0); }
-inline bool operator<=(const CBigNum& a, const CBigNum& b) { return (BN_cmp(a.bn, b.bn) <= 0); }
-inline bool operator>=(const CBigNum& a, const CBigNum& b) { return (BN_cmp(a.bn, b.bn) >= 0); }
-inline bool operator<(const CBigNum& a, const CBigNum& b)  { return (BN_cmp(a.bn, b.bn) < 0); }
-inline bool operator>(const CBigNum& a, const CBigNum& b)  { return (BN_cmp(a.bn, b.bn) > 0); }
+inline bool operator==(const CBigNum& a, const CBigNum& b) { return (BN_cmp(a.to_bignum(), b.to_bignum()) == 0); }
+inline bool operator!=(const CBigNum& a, const CBigNum& b) { return (BN_cmp(a.to_bignum(), b.to_bignum()) != 0); }
+inline bool operator<=(const CBigNum& a, const CBigNum& b) { return (BN_cmp(a.to_bignum(), b.to_bignum()) <= 0); }
+inline bool operator>=(const CBigNum& a, const CBigNum& b) { return (BN_cmp(a.to_bignum(), b.to_bignum()) >= 0); }
+inline bool operator<(const CBigNum& a, const CBigNum& b)  { return (BN_cmp(a.to_bignum(), b.to_bignum()) < 0); }
+inline bool operator>(const CBigNum& a, const CBigNum& b)  { return (BN_cmp(a.to_bignum(), b.to_bignum()) > 0); }
 
 inline std::ostream& operator<<(std::ostream &strm, const CBigNum &b) { return strm << b.ToString(10); }
 
