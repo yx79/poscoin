@@ -56,8 +56,10 @@ public:
 /** C++ wrapper for BIGNUM (OpenSSL bignum) */
 class CBigNum
 {
-    BIGNUM* bn;
+    
 public:
+    BIGNUM* bn;
+    
     CBigNum()
         : bn(BN_new()) {}
 
